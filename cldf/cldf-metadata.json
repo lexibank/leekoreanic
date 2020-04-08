@@ -10,7 +10,14 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "A Sketch of Language History in the Korean Peninsula",
+    "dcat:accessURL": "https://github.com/SimonGreenhill/leekoreanic",
     "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/SimonGreenhill/leekoreanic",
+            "dc:created": "ec092a3"
+        },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",

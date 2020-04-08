@@ -14,6 +14,7 @@ Available online at https://doi.org/10.1371/journal.pone.0128448
 ## Statistics
 
 
+[![Build Status](https://travis-ci.org/SimonGreenhill/leekoreanic.svg?branch=master)](https://travis-ci.org/SimonGreenhill/leekoreanic)
 ![Glottolog: 82%](https://img.shields.io/badge/Glottolog-82%25-yellowgreen.svg "Glottolog: 82%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")

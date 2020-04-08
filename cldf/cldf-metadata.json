@@ -10,13 +10,13 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "A Sketch of Language History in the Korean Peninsula",
-    "dcat:accessURL": "https://github.com/SimonGreenhill/leekoreanic",
+    "dcat:accessURL": "https://github.com/lexibank/leekoreanic",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "rdf:about": "https://github.com/SimonGreenhill/leekoreanic",
-            "dc:created": "ec092a3"
+            "rdf:about": "https://github.com/lexibank/leekoreanic",
+            "dc:created": "48bdc48"
         },
         {
             "rdf:type": "prov:Entity",
@@ -40,7 +40,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.0"
+            "dc:description": "3.7.6"
         },
         {
             "dc:title": "python-packages",

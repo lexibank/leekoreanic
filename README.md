@@ -1,4 +1,4 @@
-# A Sketch of Language History in the Korean Peninsula
+# CLDF dataset derived from Lee's "A Sketch of Language History in the Korean Peninsula" from 2015.
 
 Cite the source dataset as
 
@@ -35,8 +35,9 @@ Available online at https://doi.org/10.1371/journal.pone.0128448
 
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
- | @ | maintainer
+Name               | GitHub user     | Description                          | Role
+---                | ---             | ---                                  | ---
+Simon J. Greenhill | @SimonGreenhill | patron                               | Author
+Tiago Tresoldi     | @tresoldi       | profile                              | Author
 
 

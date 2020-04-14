@@ -9,14 +9,14 @@
     "dc:license": "CC-BY-SA",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "A Sketch of Language History in the Korean Peninsula",
+    "dc:title": "CLDF dataset derived from Lee's \"A Sketch of Language History in the Korean Peninsula\" from 2015.",
     "dcat:accessURL": "https://github.com/lexibank/leekoreanic",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/leekoreanic",
-            "dc:created": "48bdc48"
+            "dc:created": "678d34f"
         },
         {
             "rdf:type": "prov:Entity",
@@ -40,7 +40,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.6"
+            "dc:description": "3.7.0"
         },
         {
             "dc:title": "python-packages",
@@ -116,6 +116,14 @@
                     {
                         "datatype": "boolean",
                         "name": "Loan"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Graphemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Profile"
                     }
                 ],
                 "foreignKeys": [

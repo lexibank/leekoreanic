@@ -1,13 +1,13 @@
-# CLDF dataset derived from Lee's "A Sketch of Language History in the Korean Peninsula" from 2015.
+# CLDF dataset derived from Lee's "Sketch of Language History in the Korean Peninsula" from 2015
 
 Cite the source dataset as
 
-> Lee S (2015) A Sketch of Language History in the Korean Peninsula. PLoS ONE 10(5): e0128448. doi:10.1371/journal.pone.0128448
+> Lee, Sean (2015). A Sketch of Language History in the Korean Peninsula. PLoS ONE 10(5): e0128448. doi:10.1371/journal.pone.0128448
 
 
 Lee S (2015) A Sketch of Language History in the Korean Peninsula. PLoS ONE 10(5): e0128448. doi:10.1371/journal.pone.0128448
 
-This dataset is licensed under a CC-BY-SA license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://doi.org/10.1371/journal.pone.0128448
 
@@ -37,7 +37,9 @@ Available online at https://doi.org/10.1371/journal.pone.0128448
 
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
-Simon J. Greenhill | @SimonGreenhill | patron                               | Author
-Tiago Tresoldi     | @tresoldi       | profile                              | Author
+Sean Lee           |                 |                                      | Author
+Simon J. Greenhill | @SimonGreenhill | code                                 | Other
+Tiago Tresoldi     | @tresoldi       | profile                              | Other
+Christoph Rzymski  | @chrzyki        | patron                               | Other
 
 

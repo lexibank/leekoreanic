@@ -2,5 +2,7 @@
 
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
-Simon J. Greenhill | @SimonGreenhill | patron                               | Author
-Tiago Tresoldi     | @tresoldi       | profile                              | Author
+Sean Lee           |                 |                                      | Author
+Simon J. Greenhill | @SimonGreenhill | code                                 | Other
+Tiago Tresoldi     | @tresoldi       | profile                              | Other
+Christoph Rzymski  | @chrzyki        | patron                               | Other

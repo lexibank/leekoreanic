@@ -5,26 +5,16 @@
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [
-        {
-            "name": "Sean Lee"
-        }
-    ],
-    "contributors": [
-        {
-            "name": "Simon J. Greenhill",
-            "type": "Other"
-        },
-        {
-            "name": "Tiago Tresoldi",
-            "type": "Other"
-        }
-    ],
+    "creators": [],
+    "contributors": [],
     "communities": [
         {
             "identifier": "lexibank"
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Lee S (2015) A Sketch of Language History in the Korean Peninsula. PLoS ONE 10(5): e0128448. doi:10.1371/journal.pone.0128448</p>\n</blockquote>"
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Lee, Sean (2015). A Sketch of Language History in the Korean Peninsula. PLoS ONE 10(5): e0128448. doi:10.1371/journal.pone.0128448</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
 }

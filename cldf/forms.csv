@@ -104,7 +104,7 @@ Jeju-5_ash-1,,Jeju,5_ash,pul-cʰi,pul-cʰi,p u l + tɕʰ i,,Ogura1944,,,^ p u l 
 Jeju-234_white-1,,Jeju,234_white,ha-jaŋ-,ha-jaŋ-,h a + dʑ a ŋ,,Nanmal2010,,,^h a - j a ŋ -$,default
 Jeju-53_green-1,,Jeju,53_green,pu-ri-,pu-ri-,p u + ɾ i,,Nanmal2010,,,^ p u - r i -$,default
 Jeju-126_small-1,,Jeju,126_small,cok-,cok-,tɕ o k,,Nanmal2010,,,^ c o k -$,default
-Jeju-120_short-1,,Jeju,120_short,c'o-rɨ-,c'o-rɨ-,t͈ɕ o + ɾ ɨ,,Nanmal2010,,,^ c' o - r ɨ -$,default
+Jeju-120_short-1,,Jeju,120_short,c'o-rɨ-,c'o-rɨ-,tɕ͈ o + ɾ ɨ,,Nanmal2010,,,^ c' o - r ɨ -$,default
 Jeju-77_long-1,,Jeju,77_long,cil-,cil-,tɕ i l,,Ogura1944,,,^ c i l -$,default
 Jeju-145_thick-1,,Jeju,145_thick,huk-,huk-,h u k,,Nanmal2010,,,^h u k -$,default
 Jeju-88_narrow-1,,Jeju,88_narrow,cop-cak-,cop-cak-,tɕ o p + tɕ a k,,Nanmal2010,,,^ c o p - c a k -$,default
@@ -155,7 +155,7 @@ Jeju-129_smooth-1,,Jeju,129_smooth,pu-dɨ-rə-pa-sə,pu-dɨ-rə-pa-sə,p u + d �
 Jeju-240_with-1,,Jeju,240_with,hom-cʰi,hom-cʰi,h o m + tɕʰ i,,Nanmal2010,,,^h o m - cʰ i $,default
 SJeolla-55_hand-1,,SJeolla,55_hand,son,son,s o n,,Ogura1944,,,^ s o n $,default
 SJeolla-73_left-1,,SJeolla,73_left,øn,øn,ø n,,Ogura1944,,,^ ø n $,default
-SJeolla-107_right-1,,SJeolla,107_right,o-rɨn-c'ok,o-rɨn-c'ok,o + ɾ ɨ n + t͈ɕ o k,,Nanmal2010,,,^ o - r ɨ n - c' o k $,default
+SJeolla-107_right-1,,SJeolla,107_right,o-rɨn-c'ok,o-rɨn-c'ok,o + ɾ ɨ n + tɕ͈ o k,,Nanmal2010,,,^ o - r ɨ n - c' o k $,default
 SJeolla-226_walk-1,,SJeolla,226_walk,kər-,kər-,k ə ɾ,,Ogura1944,,,^ k ə r -$,default
 SJeolla-109_road-1,,SJeolla,109_road,cil,cil,tɕ i l,,Ogura1944,,,^ c i l $,default
 SJeolla-215_toturn-1,,SJeolla,215_toturn,tol-lin-,tol-lin-,t o l + l i n,,Ogura1944,,,^ t o l - l i n -$,default
@@ -198,7 +198,7 @@ SJeolla-84_mother-1,,SJeolla,84_mother,ə-mɛ,ə-mɛ,ə + m ɛ,,Nanmal2010,,,^ �
 SJeolla-38_father-1,,SJeolla,38_father,ap-s'i,ap-s'i,a p + s͈ i,,Nanmal2010,,,^ a p - s' i $,default
 SJeolla-142_thatchroof-1,,SJeolla,142_thatchroof,ci-boŋ-k'u,ci-boŋ-k'u,tɕ i + b o ŋ + k͈ u,,Nanmal2010,,,^ c i - b o ŋ - k' u $,default
 SJeolla-111_rope-1,,SJeolla,111_rope,sɛt-ki,sɛt-ki,s ɛ t + k i,,Ogura1944,,,^ s ɛ t - k i $,default
-SJeolla-214_totieupfasten-1,,SJeolla,214_totieupfasten,c'am-men-,c'am-men-,t͈ɕ a m + m e n,,Nanmal2010,,,^ c' a m - m e n -$,default
+SJeolla-214_totieupfasten-1,,SJeolla,214_totieupfasten,c'am-men-,c'am-men-,tɕ͈ a m + m e n,,Nanmal2010,,,^ c' a m - m e n -$,default
 SJeolla-198_tosew-1,,SJeolla,198_tosew,k'u-mɛ-,k'u-mɛ-,k͈ u + m ɛ,,Nanmal2010,,,^ k' u - m ɛ -$,default
 SJeolla-91_needle-1,,SJeolla,91_needle,pa-nɨl,pa-nɨl,p a + n ɨ l,,Ogura1944,,,^ p a - n ɨ l $,default
 SJeolla-199_toshoot-1,,SJeolla,199_toshoot,s'an-,s'an-,s͈ a n,,Nanmal2010,,,^ s' a n -$,default
@@ -221,7 +221,7 @@ SJeolla-27_dog-1,,SJeolla,27_dog,kɛ,kɛ,k ɛ,,Ogura1944,,,^ k ɛ $,default
 SJeolla-14_bird-1,,SJeolla,14_bird,sɛ,sɛ,s ɛ,,Ogura1944,,,^ s ɛ $,default
 SJeolla-33_egg-1,,SJeolla,33_egg,tal-gjal,tal-gjal,t a l + g dʑ a l,,Ogura1944,,,^ t a l - g j a l $,default
 SJeolla-39_feather-1,,SJeolla,39_feather,cit,cit,tɕ i t,,Nanmal2010,,,^ c i t $,default
-SJeolla-239_wing-1,,SJeolla,239_wing,nal-kɛ-c'ok-ɟi,nal-kɛ-c'ok-ɟi,n a l + k ɛ + t͈ɕ o k + ɟ i,,Nanmal2010,,,^ n a l - k ɛ - c' o k - ɟ i $,default
+SJeolla-239_wing-1,,SJeolla,239_wing,nal-kɛ-c'ok-ɟi,nal-kɛ-c'ok-ɟi,n a l + k ɛ + tɕ͈ o k + ɟ i,,Nanmal2010,,,^ n a l - k ɛ - c' o k - ɟ i $,default
 SJeolla-105_rat-1,,SJeolla,105_rat,sə-se-on,sə-se-on,s ə + s e + o n,,Ogura1944,,,^ s ə - s e - o n $,default
 SJeolla-81_meatflesh-1,,SJeolla,81_meatflesh,sal-t'a-gu,sal-t'a-gu,s a l + t͈ a + g u,,Nanmal2010,,,^ s a l - t' a - g u $,default
 SJeolla-37_fatgrease-1,,SJeolla,37_fatgrease,ci-rɨm,ci-rɨm,tɕ i + ɾ ɨ m,,Ogura1944,,,^ c i - r ɨ m $,default
@@ -286,7 +286,7 @@ SJeolla-12_below-1,,SJeolla,12_below,mi-te/a-re,mi-te,m i + t e,,Nanmal2010,,,^ 
 SJeolla-12_below-2,,SJeolla,12_below,mi-te/a-re,a-re,a + ɾ e,,Nanmal2010,,,^ a - r e $,default
 SJeolla-89_near-1,,SJeolla,89_near,kat-kap-,kat-kap-,k a t + k a p,,Ogura1944,,,^ k a t - k a p -$,default
 SJeolla-148_thou-1,,SJeolla,148_thou,nə,nə,n ə,,Ogura1944,,,^ n ə $,default
-SJeolla-2_all-1,,SJeolla,2_all,mal-c'aŋ,mal-c'aŋ,m a l + t͈ɕ a ŋ,,Ogura1944,,,^ m a l - c' a ŋ $,default
+SJeolla-2_all-1,,SJeolla,2_all,mal-c'aŋ,mal-c'aŋ,m a l + tɕ͈ a ŋ,,Ogura1944,,,^ m a l - c' a ŋ $,default
 SJeolla-3_and-1,,SJeolla,3_and,wa(kwa)/raŋ,wa,w a,,Ogura1944,,,^ w a $,default
 SJeolla-3_and-2,,SJeolla,3_and,wa(kwa)/raŋ,raŋ,ɾ a ŋ,,Ogura1944,,,^ r a ŋ $,default
 SJeolla-63_how-1,,SJeolla,63_how,ə-k'e,ə-k'e,ə + k͈ e,,Nanmal2010,,,^ ə - k' e $,default
@@ -302,7 +302,7 @@ SJeolla-224_twenty-1,,SJeolla,224_twenty,su-məl,su-məl,s u + m ə l,,Nanmal201
 SJeolla-60_here-1,,SJeolla,60_here,yə-gi,yə-gi,j ə + g i,,Ogura1944,,,^ y ə - g i $,default
 SJeolla-143_there-1,,SJeolla,143_there,cə-gi,cə-gi,tɕ ə + g i,,Ogura1944,,,^ c ə - g i $,default
 SJeolla-80_many-1,,SJeolla,80_many,han-na,han-na,h a n + n a,,Nanmal2010,,,^h a n - n a $,default
-SJeolla-40_few-1,,SJeolla,40_few,c'o-k'ɨm,c'o-k'ɨm,t͈ɕ o + k͈ ɨ m,,Nanmal2010,,,^ c' o - k' ɨ m $,default
+SJeolla-40_few-1,,SJeolla,40_few,c'o-k'ɨm,c'o-k'ɨm,tɕ͈ o + k͈ ɨ m,,Nanmal2010,,,^ c' o - k' ɨ m $,default
 SJeolla-223_tree-1,,SJeolla,223_tree,na-mu/naŋ-gu,na-mu,n a + m u,,Ogura1944,,,^ n a - m u $,default
 SJeolla-223_tree-2,,SJeolla,223_tree,na-mu/naŋ-gu,naŋ-gu,n a ŋ + g u,,Ogura1944,,,^ n a ŋ - g u $,default
 SJeolla-117_seed-1,,SJeolla,117_seed,s'i-kat,s'i-kat,s͈ i + k a t,,Nanmal2010,,,^ s' i - k a t $,default
@@ -331,7 +331,7 @@ SJeolla-240_with-1,,SJeolla,240_with,haŋ-k'u-ne,haŋ-k'u-ne,h a ŋ + k͈ u + n 
 SJeolla-10_because-1,,SJeolla,10_because,t'am,t'am,t͈ a m,,Ogura1944,,,^ t' a m $,default
 NJeolla-55_hand-1,,NJeolla,55_hand,son,son,s o n,,Ogura1944,,,^ s o n $,default
 NJeolla-73_left-1,,NJeolla,73_left,ø-jak,ø-jak,ø + dʑ a k,,Ogura1944,,,^ ø - j a k $,default
-NJeolla-107_right-1,,NJeolla,107_right,o-rɨn-c'ok,o-rɨn-c'ok,o + ɾ ɨ n + t͈ɕ o k,,Nanmal2010,,,^ o - r ɨ n - c' o k $,default
+NJeolla-107_right-1,,NJeolla,107_right,o-rɨn-c'ok,o-rɨn-c'ok,o + ɾ ɨ n + tɕ͈ o k,,Nanmal2010,,,^ o - r ɨ n - c' o k $,default
 NJeolla-226_walk-1,,NJeolla,226_walk,kər-,kər-,k ə ɾ,,Ogura1944,,,^ k ə r -$,default
 NJeolla-109_road-1,,NJeolla,109_road,cil,cil,tɕ i l,,Ogura1944,,,^ c i l $,default
 NJeolla-215_toturn-1,,NJeolla,215_toturn,tol-lin-,tol-lin-,t o l + l i n,,Ogura1944,,,^ t o l - l i n -$,default
@@ -392,7 +392,7 @@ NJeolla-27_dog-1,,NJeolla,27_dog,kɛ,kɛ,k ɛ,,Ogura1944,,,^ k ɛ $,default
 NJeolla-14_bird-1,,NJeolla,14_bird,sɛ,sɛ,s ɛ,,Ogura1944,,,^ s ɛ $,default
 NJeolla-33_egg-1,,NJeolla,33_egg,tal-gjal,tal-gjal,t a l + g dʑ a l,,Ogura1944,,,^ t a l - g j a l $,default
 NJeolla-39_feather-1,,NJeolla,39_feather,cit,cit,tɕ i t,,Nanmal2010,,,^ c i t $,default
-NJeolla-239_wing-1,,NJeolla,239_wing,nal-kɛ-c'uk-ɟi,nal-kɛ-c'uk-ɟi,n a l + k ɛ + t͈ɕ u k + ɟ i,,Nanmal2010,,,^ n a l - k ɛ - c' u k - ɟ i $,default
+NJeolla-239_wing-1,,NJeolla,239_wing,nal-kɛ-c'uk-ɟi,nal-kɛ-c'uk-ɟi,n a l + k ɛ + tɕ͈ u k + ɟ i,,Nanmal2010,,,^ n a l - k ɛ - c' u k - ɟ i $,default
 NJeolla-105_rat-1,,NJeolla,105_rat,sə-sɛ-won,sə-sɛ-won,s ə + s ɛ + w o n,,Ogura1944,,,^ s ə - s ɛ - w o n $,default
 NJeolla-37_fatgrease-1,,NJeolla,37_fatgrease,ci-rəm,ci-rəm,tɕ i + ɾ ə m,,Ogura1944,,,^ c i - r ə m $,default
 NJeolla-139_tail-1,,NJeolla,139_tail,k'o-raŋ-dɛŋ-gi,k'o-raŋ-dɛŋ-gi,k͈ o + ɾ a ŋ + d ɛ ŋ + g i,,Ogura1944,,,^ k' o - r a ŋ - d ɛ ŋ - g i $,default
@@ -427,11 +427,11 @@ NJeolla-128_smoke-2,,NJeolla,128_smoke,jeŋ-gɨy/nɛŋ-gal,nɛŋ-gal,n ɛ ŋ + g
 NJeolla-5_ash-1,,NJeolla,5_ash,cɛ,cɛ,tɕ ɛ,,Ogura1944,,,^ c ɛ $,default
 NJeolla-234_white-1,,NJeolla,234_white,ha-jat-,ha-jat-,h a + dʑ a t,,Nanmal2010,,,^h a - j a t -$,default
 NJeolla-106_red-1,,NJeolla,106_red,p'al-kat-,p'al-kat-,p͈ a l + k a t,,Nanmal2010,,,^ p' a l - k a t -$,default
-NJeolla-126_small-1,,NJeolla,126_small,c'ak-,c'ak-,t͈ɕ a k,,Nanmal2010,,,^ c' a k -$,default
-NJeolla-120_short-1,,NJeolla,120_short,c'a-rup-,c'a-rup-,t͈ɕ a + ɾ u p,,Nanmal2010,,,^ c' a - r u p -$,default
+NJeolla-126_small-1,,NJeolla,126_small,c'ak-,c'ak-,tɕ͈ a k,,Nanmal2010,,,^ c' a k -$,default
+NJeolla-120_short-1,,NJeolla,120_short,c'a-rup-,c'a-rup-,tɕ͈ a + ɾ u p,,Nanmal2010,,,^ c' a - r u p -$,default
 NJeolla-77_long-1,,NJeolla,77_long,cil-,cil-,tɕ i l,,Ogura1944,,,^ c i l -$,default
 NJeolla-145_thick-1,,NJeolla,145_thick,tʰuŋ-gəp-,tʰuŋ-gəp-,tʰ u ŋ + g ə p,,Ogura1944,,,^ tʰ u ŋ - g ə p -$,default
-NJeolla-88_narrow-1,,NJeolla,88_narrow,c'op-,c'op-,t͈ɕ o p,,Nanmal2010,,,^ c' o p -$,default
+NJeolla-88_narrow-1,,NJeolla,88_narrow,c'op-,c'op-,tɕ͈ o p,,Nanmal2010,,,^ c' o p -$,default
 NJeolla-236_wide-1,,NJeolla,236_wide,nəl-,nəl-,n ə l,,Nanmal2010,,,^ n ə l -$,default
 NJeolla-102_painfulsick-1,,NJeolla,102_painfulsick,al-,al-,a l,,Nanmal2010,,,^ a l -$,default
 NJeolla-122_shyashamed-1,,NJeolla,122_shyashamed,cʰu-ɟəp-si-rəp-,cʰu-ɟəp-si-rəp-,tɕʰ u + ɟ ə p + s i + ɾ ə p,,Nanmal2010,,,^ cʰ u - ɟ ə p - s i - r ə p -$,default
@@ -448,7 +448,7 @@ NJeolla-148_thou-1,,NJeolla,148_thou,nə,nə,n ə,,Ogura1944,,,^ n ə $,default
 NJeolla-2_all-1,,NJeolla,2_all,mo-do,mo-do,m o + d o,,Ogura1944,,,^ m o - d o $,default
 NJeolla-3_and-1,,NJeolla,3_and,wa(kwa)/raŋ,wa,w a,,Ogura1944,,,^ w a $,default
 NJeolla-3_and-2,,NJeolla,3_and,wa(kwa)/raŋ,raŋ,ɾ a ŋ,,Ogura1944,,,^ r a ŋ $,default
-NJeolla-63_how-1,,NJeolla,63_how,ə-c'i-ca-ko,ə-c'i-ca-ko,ə + t͈ɕ i + tɕ a + k o,,Nanmal2010,,,^ ə - c' i - c a - k o $,default
+NJeolla-63_how-1,,NJeolla,63_how,ə-c'i-ca-ko,ə-c'i-ca-ko,ə + tɕ͈ i + tɕ a + k o,,Nanmal2010,,,^ ə - c' i - c a - k o $,default
 NJeolla-161_tocount-1,,NJeolla,161_tocount,si-,si-,s i,,Nanmal2010,,,^ s i -$,default
 NJeolla-98_one-1,,NJeolla,98_one,han-na,han-na,h a n + n a,,Nanmal2010,,,^h a n - n a $,default
 NJeolla-225_two-1,,NJeolla,225_two,tu-ul,tu-ul,t u + u l,,Nanmal2010,,,^ t u - u l $,default
@@ -462,7 +462,7 @@ NJeolla-41_fifty-1,,NJeolla,41_fifty,swi-un,swi-un,s w i + u n,,Nanmal2010,,,^ s
 NJeolla-60_here-1,,NJeolla,60_here,yə-gi,yə-gi,j ə + g i,,Ogura1944,,,^ y ə - g i $,default
 NJeolla-143_there-1,,NJeolla,143_there,cə-gi,cə-gi,tɕ ə + g i,,Ogura1944,,,^ c ə - g i $,default
 NJeolla-80_many-1,,NJeolla,80_many,ho-p'ak,ho-p'ak,h o + p͈ a k,,Nanmal2010,,,^h o - p' a k $,default
-NJeolla-40_few-1,,NJeolla,40_few,c'o-kɨm,c'o-kɨm,t͈ɕ o + k ɨ m,,Nanmal2010,,,^ c' o - k ɨ m $,default
+NJeolla-40_few-1,,NJeolla,40_few,c'o-kɨm,c'o-kɨm,tɕ͈ o + k ɨ m,,Nanmal2010,,,^ c' o - k ɨ m $,default
 NJeolla-223_tree-1,,NJeolla,223_tree,na-mu,na-mu,n a + m u,,Ogura1944,,,^ n a - m u $,default
 NJeolla-9_barkofatree-1,,NJeolla,9_barkofatree,k'əp-te-gi,k'əp-te-gi,k͈ ə p + t e + g i,,Ogura1944,,,^ k' ə p - t e - g i $,default
 NJeolla-61_horn-1,,NJeolla,61_horn,p'ul,p'ul,p͈ u l,,Ogura1944,,,^ p' u l $,default
@@ -476,7 +476,7 @@ NJeolla-85_mountain-1,,NJeolla,85_mountain,mø-toŋ,mø-toŋ,m ø + t o ŋ,,Ogur
 NJeolla-113_round-1,,NJeolla,113_round,t'uŋ-gɨl-,t'uŋ-gɨl-,t͈ u ŋ + g ɨ l,,Nanmal2010,,,^ t' u ŋ - g ɨ l -$,default
 NJeolla-240_with-1,,NJeolla,240_with,ha-njaŋ,ha-njaŋ,h a + n dʑ a ŋ,,Nanmal2010,,,^h a - n j a ŋ $,default
 SGyeongsang-55_hand-1,,SGyeongsang,55_hand,son,son,s o n,,Ogura1944,,,^ s o n $,default
-SGyeongsang-73_left-1,,SGyeongsang,73_left,c'ak-ɟɛ-gi,c'ak-ɟɛ-gi,t͈ɕ a k + ɟ ɛ + g i,,Nanmal2010,,,^ c' a k - ɟ ɛ - g i $,default
+SGyeongsang-73_left-1,,SGyeongsang,73_left,c'ak-ɟɛ-gi,c'ak-ɟɛ-gi,tɕ͈ a k + ɟ ɛ + g i,,Nanmal2010,,,^ c' a k - ɟ ɛ - g i $,default
 SGyeongsang-107_right-1,,SGyeongsang,107_right,pa-rɨn-pjen,pa-rɨn-pjen,p a + ɾ ɨ n + p dʑ e n,,Nanmal2010,,,^ p a - r ɨ n - p j e n $,default
 SGyeongsang-74_leg-1,,SGyeongsang,74_leg,tal-ga-ɟi,tal-ga-ɟi,t a l + g a + ɟ i,,Nanmal2010,,,^ t a l - g a - ɟ i $,default
 SGyeongsang-226_walk-1,,SGyeongsang,226_walk,kər-,kər-,k ə ɾ,,Ogura1944,,,^ k ə r -$,default
@@ -537,13 +537,13 @@ SGyeongsang-204_tosplit-1,,SGyeongsang,204_tosplit,noŋ-gɨ-rin-,noŋ-gɨ-rin-,n
 SGyeongsang-189_toplant-1,,SGyeongsang,189_toplant,sun-gun-,sun-gun-,s u n + g u n,,Ogura1944,,,^ s u n - g u n -$,default
 SGyeongsang-157_tochoose-1,,SGyeongsang,157_tochoose,kal-rin-,kal-rin-,k a l + ɾ i n,,Nanmal2010,,,^ k a l - r i n -$,default
 SGyeongsang-177_togrow-1,,SGyeongsang,177_togrow,ki-rɨn-,ki-rɨn-,k i + ɾ ɨ n,,Ogura1944,,,^ k i - r ɨ n -$,default
-SGyeongsang-205_tosqueeze-1,,SGyeongsang,205_tosqueeze,c'a-ni,c'a-ni,t͈ɕ a + n i,,Nanmal2010,,,^ c' a - n i $,default
+SGyeongsang-205_tosqueeze-1,,SGyeongsang,205_tosqueeze,c'a-ni,c'a-ni,tɕ͈ a + n i,,Nanmal2010,,,^ c' a - n i $,default
 SGyeongsang-181_tohold-1,,SGyeongsang,181_tohold,ca-pa-sə,ca-pa-sə,tɕ a + p a + s ə,,Nanmal2010,,,^ c a - p a - s ə $,default
 SGyeongsang-155_tobuy-1,,SGyeongsang,155_tobuy,san-,san-,s a n,,Ogura1944,,,^ s a n -$,default
 SGyeongsang-188_toopenuncover-1,,SGyeongsang,188_toopenuncover,k'e-ra-,k'e-ra-,k͈ e + ɾ a,,Nanmal2010,,,^ k' e - r a -$,default
 SGyeongsang-191_topoundbeat-1,,SGyeongsang,191_topoundbeat,t'ɛ-rin-,t'ɛ-rin-,t͈ ɛ + ɾ i n,,Ogura1944,,,^ t' ɛ - r i n -$,default
 SGyeongsang-213_tothrow-1,,SGyeongsang,213_tothrow,nɛ-p'in-,nɛ-p'in-,n ɛ + p͈ i n,,Nanmal2010,,,^ n ɛ - p' i n -$,default
-SGyeongsang-169_tofall-1,,SGyeongsang,169_tofall,nəl-c'an-,nəl-c'an-,n ə l + t͈ɕ a n,,Nanmal2010,,,^ n ə l - c' a n -$,default
+SGyeongsang-169_tofall-1,,SGyeongsang,169_tofall,nəl-c'an-,nəl-c'an-,n ə l + tɕ͈ a n,,Nanmal2010,,,^ n ə l - c' a n -$,default
 SGyeongsang-27_dog-1,,SGyeongsang,27_dog,k'aŋ-sɛ-i,k'aŋ-sɛ-i,k͈ a ŋ + s ɛ + i,,Nanmal2010,,,^ k' a ŋ - s ɛ - i $,default
 SGyeongsang-14_bird-1,,SGyeongsang,14_bird,sɛ,sɛ,s ɛ,,Ogura1944,,,^ s ɛ $,default
 SGyeongsang-33_egg-1,,SGyeongsang,33_egg,ci-i-ral,ci-i-ral,tɕ i + i + ɾ a l,,Nanmal2010,,,^ c i - i - r a l $,default
@@ -624,7 +624,7 @@ SGyeongsang-235_who-1,,SGyeongsang,235_who,nu,nu,n u,,Nanmal2010,,,^ n u $,defau
 SGyeongsang-2_all-1,,SGyeongsang,2_all,mak-ha,mak-ha,m a k + h a,,Nanmal2010,,,^ m a k -h a $,default
 SGyeongsang-3_and-1,,SGyeongsang,3_and,wa(kwa)/kʰaŋ,wa,w a,,Ogura1944,,,^ w a $,default
 SGyeongsang-3_and-2,,SGyeongsang,3_and,wa(kwa)/kʰaŋ,kʰaŋ,kʰ a ŋ,,Ogura1944,,,^ kʰ a ŋ $,default
-SGyeongsang-63_how-1,,SGyeongsang,63_how,u-c'i,u-c'i,u + t͈ɕ i,,Nanmal2010,,,^ u - c' i $,default
+SGyeongsang-63_how-1,,SGyeongsang,63_how,u-c'i,u-c'i,u + tɕ͈ i,,Nanmal2010,,,^ u - c' i $,default
 SGyeongsang-95_nonot-1,,SGyeongsang,95_nonot,ɛn,ɛn,ɛ n,,Nanmal2010,,,^ ɛ n $,default
 SGyeongsang-161_tocount-1,,SGyeongsang,161_tocount,si-,si-,s i,,Nanmal2010,,,^ s i -$,default
 SGyeongsang-98_one-1,,SGyeongsang,98_one,han-na,han-na,h a n + n a,,Nanmal2010,,,^h a n - n a $,default
@@ -641,7 +641,7 @@ SGyeongsang-41_fifty-1,,SGyeongsang,41_fifty,si-in,si-in,s i + i n,,Nanmal2010,,
 SGyeongsang-60_here-1,,SGyeongsang,60_here,yə-gɨy,yə-gɨy,j ə + g ɨ j,,Ogura1944,,,^ y ə - g ɨ y $,default
 SGyeongsang-143_there-1,,SGyeongsang,143_there,cə-gi,cə-gi,tɕ ə + g i,,Ogura1944,,,^ c ə - g i $,default
 SGyeongsang-80_many-1,,SGyeongsang,80_many,haŋ-gɨ-si,haŋ-gɨ-si,h a ŋ + g ɨ + s i,,Nanmal2010,,,^h a ŋ - g ɨ - s i $,default
-SGyeongsang-40_few-1,,SGyeongsang,40_few,c'o-k'ɨm,c'o-k'ɨm,t͈ɕ o + k͈ ɨ m,,Nanmal2010,,,^ c' o - k' ɨ m $,default
+SGyeongsang-40_few-1,,SGyeongsang,40_few,c'o-k'ɨm,c'o-k'ɨm,tɕ͈ o + k͈ ɨ m,,Nanmal2010,,,^ c' o - k' ɨ m $,default
 SGyeongsang-223_tree-1,,SGyeongsang,223_tree,na-mu/naŋ-kʰi,na-mu,n a + m u,,Ogura1944,,,^ n a - m u $,default
 SGyeongsang-223_tree-2,,SGyeongsang,223_tree,na-mu/naŋ-kʰi,naŋ-kʰi,n a ŋ + kʰ i,,Ogura1944,,,^ n a ŋ - kʰ i $,default
 SGyeongsang-117_seed-1,,SGyeongsang,117_seed,s'i-kat,s'i-kat,s͈ i + k a t,,Nanmal2010,,,^ s' i - k a t $,default
@@ -667,7 +667,7 @@ SGyeongsang-113_round-1,,SGyeongsang,113_round,t'uŋ-gɨl-,t'uŋ-gɨl-,t͈ u ŋ 
 SGyeongsang-129_smooth-1,,SGyeongsang,129_smooth,pu-dɨ-rə-bə-sə,pu-dɨ-rə-bə-sə,p u + d ɨ + ɾ ə + b ə + s ə,,Nanmal2010,,,^ p u - d ɨ - r ə - b ə - s ə $,default
 SGyeongsang-240_with-1,,SGyeongsang,240_with,tə-bɨn,tə-bɨn,t ə + b ɨ n,,Nanmal2010,,,^ t ə - b ɨ n $,default
 NGyeongsang-55_hand-1,,NGyeongsang,55_hand,son,son,s o n,,Ogura1944,,,^ s o n $,default
-NGyeongsang-73_left-1,,NGyeongsang,73_left,c'ɛ-pi,c'ɛ-pi,t͈ɕ ɛ + p i,,Nanmal2010,,,^ c' ɛ - p i $,default
+NGyeongsang-73_left-1,,NGyeongsang,73_left,c'ɛ-pi,c'ɛ-pi,tɕ͈ ɛ + p i,,Nanmal2010,,,^ c' ɛ - p i $,default
 NGyeongsang-107_right-1,,NGyeongsang,107_right,pa-rɨn-pjen,pa-rɨn-pjen,p a + ɾ ɨ n + p dʑ e n,,Nanmal2010,,,^ p a - r ɨ n - p j e n $,default
 NGyeongsang-74_leg-1,,NGyeongsang,74_leg,tal-gu-ri,tal-gu-ri,t a l + g u + ɾ i,,Nanmal2010,,,^ t a l - g u - r i $,default
 NGyeongsang-226_walk-1,,NGyeongsang,226_walk,kər-,kər-,k ə ɾ,,Ogura1944,,,^ k ə r -$,default
@@ -728,12 +728,12 @@ NGyeongsang-204_tosplit-1,,NGyeongsang,204_tosplit,noŋ-kin-,noŋ-kin-,n o ŋ + 
 NGyeongsang-189_toplant-1,,NGyeongsang,189_toplant,si-mun-nɨn-,si-mun-nɨn-,s i + m u n + n ɨ n,,Ogura1944,,,^ s i - m u n - n ɨ n -$,default
 NGyeongsang-157_tochoose-1,,NGyeongsang,157_tochoose,ke-rin-,ke-rin-,k e + ɾ i n,,Nanmal2010,,,^ k e - r i n -$,default
 NGyeongsang-177_togrow-1,,NGyeongsang,177_togrow,ki-rɨn-,ki-rɨn-,k i + ɾ ɨ n,,Ogura1944,,,^ k i - r ɨ n -$,default
-NGyeongsang-205_tosqueeze-1,,NGyeongsang,205_tosqueeze,c'a-ni,c'a-ni,t͈ɕ a + n i,,Nanmal2010,,,^ c' a - n i $,default
+NGyeongsang-205_tosqueeze-1,,NGyeongsang,205_tosqueeze,c'a-ni,c'a-ni,tɕ͈ a + n i,,Nanmal2010,,,^ c' a - n i $,default
 NGyeongsang-181_tohold-1,,NGyeongsang,181_tohold,ca-pa-sə,ca-pa-sə,tɕ a + p a + s ə,,Nanmal2010,,,^ c a - p a - s ə $,default
 NGyeongsang-155_tobuy-1,,NGyeongsang,155_tobuy,san-,san-,s a n,,Ogura1944,,,^ s a n -$,default
 NGyeongsang-191_topoundbeat-1,,NGyeongsang,191_topoundbeat,t'ɛ-rin-,t'ɛ-rin-,t͈ ɛ + ɾ i n,,Nanmal2010,,,^ t' ɛ - r i n -$,default
 NGyeongsang-213_tothrow-1,,NGyeongsang,213_tothrow,tən-cin-,tən-cin-,t ə n + tɕ i n,,Nanmal2010,,,^ t ə n - c i n -$,default
-NGyeongsang-169_tofall-1,,NGyeongsang,169_tofall,nəl-j'un-,nəl-j'un-,n ə l + d͈ʑ u n,,Nanmal2010,,,^ n ə l - j' u n -$,default
+NGyeongsang-169_tofall-1,,NGyeongsang,169_tofall,nəl-j'un-,nəl-j'un-,n ə l + dʑ͈ u n,,Nanmal2010,,,^ n ə l - j' u n -$,default
 NGyeongsang-27_dog-1,,NGyeongsang,27_dog,k'aŋ-sɛ-i,k'aŋ-sɛ-i,k͈ a ŋ + s ɛ + i,,Nanmal2010,,,^ k' a ŋ - s ɛ - i $,default
 NGyeongsang-14_bird-1,,NGyeongsang,14_bird,sɛ,sɛ,s ɛ,,Ogura1944,,,^ s ɛ $,default
 NGyeongsang-33_egg-1,,NGyeongsang,33_egg,cɛ-ral,cɛ-ral,tɕ ɛ + ɾ a l,,Nanmal2010,,,^ c ɛ - r a l $,default
@@ -815,7 +815,7 @@ NGyeongsang-235_who-1,,NGyeongsang,235_who,nu-ga,nu-ga,n u + g a,,Nanmal2010,,,^
 NGyeongsang-2_all-1,,NGyeongsang,2_all,mak-ha,mak-ha,m a k + h a,,Nanmal2010,,,^ m a k -h a $,default
 NGyeongsang-3_and-1,,NGyeongsang,3_and,wa(kwa)/kʰaŋ,wa,w a,,Ogura1944,,,^ w a $,default
 NGyeongsang-3_and-2,,NGyeongsang,3_and,wa(kwa)/kʰaŋ,kʰaŋ,kʰ a ŋ,,Ogura1944,,,^ kʰ a ŋ $,default
-NGyeongsang-63_how-1,,NGyeongsang,63_how,u-c'e,u-c'e,u + t͈ɕ e,,Nanmal2010,,,^ u - c' e $,default
+NGyeongsang-63_how-1,,NGyeongsang,63_how,u-c'e,u-c'e,u + tɕ͈ e,,Nanmal2010,,,^ u - c' e $,default
 NGyeongsang-95_nonot-1,,NGyeongsang,95_nonot,ɛn,ɛn,ɛ n,,Nanmal2010,,,^ ɛ n $,default
 NGyeongsang-161_tocount-1,,NGyeongsang,161_tocount,si-,si-,s i,,Nanmal2010,,,^ s i -$,default
 NGyeongsang-98_one-1,,NGyeongsang,98_one,han-na,han-na,h a n + n a,,Nanmal2010,,,^h a n - n a $,default
@@ -832,7 +832,7 @@ NGyeongsang-41_fifty-1,,NGyeongsang,41_fifty,sin,sin,s i n,,Nanmal2010,,,^ s i n
 NGyeongsang-60_here-1,,NGyeongsang,60_here,yə-gi,yə-gi,j ə + g i,,Ogura1944,,,^ y ə - g i $,default
 NGyeongsang-143_there-1,,NGyeongsang,143_there,cə-gi,cə-gi,tɕ ə + g i,,Ogura1944,,,^ c ə - g i $,default
 NGyeongsang-80_many-1,,NGyeongsang,80_many,man-hi,man-hi,m a n + h i,,Ogura1944,,,^ m a n -h i $,default
-NGyeongsang-40_few-1,,NGyeongsang,40_few,c'o-k'ɨm,c'o-k'ɨm,t͈ɕ o + k͈ ɨ m,,Nanmal2010,,,^ c' o - k' ɨ m $,default
+NGyeongsang-40_few-1,,NGyeongsang,40_few,c'o-k'ɨm,c'o-k'ɨm,tɕ͈ o + k͈ ɨ m,,Nanmal2010,,,^ c' o - k' ɨ m $,default
 NGyeongsang-223_tree-1,,NGyeongsang,223_tree,naŋ-kʰi/na-mu,naŋ-kʰi,n a ŋ + kʰ i,,Ogura1944,,,^ n a ŋ - kʰ i $,default
 NGyeongsang-223_tree-2,,NGyeongsang,223_tree,naŋ-kʰi/na-mu,na-mu,n a + m u,,Ogura1944,,,^ n a - m u $,default
 NGyeongsang-117_seed-1,,NGyeongsang,117_seed,s'i-kam,s'i-kam,s͈ i + k a m,,Nanmal2010,,,^ s' i - k a m $,default
@@ -840,7 +840,7 @@ NGyeongsang-9_barkofatree-1,,NGyeongsang,9_barkofatree,kəp-t'ɛ-gi,kəp-t'ɛ-gi
 NGyeongsang-61_horn-1,,NGyeongsang,61_horn,p'ul,p'ul,p͈ u l,,Ogura1944,,,^ p' u l $,default
 NGyeongsang-21_claw-1,,NGyeongsang,21_claw,son-top,son-top,s o n + t o p,,Nanmal2010,,,^ s o n - t o p $,default
 NGyeongsang-47_foot-1,,NGyeongsang,47_foot,pal-mo-ga-ɟi,pal-mo-ga-ɟi,p a l + m o + g a + ɟ i,,Nanmal2010,,,^ p a l - m o - g a - ɟ i $,default
-NGyeongsang-70_knee-1,,NGyeongsang,70_knee,mul-c'oŋ-ce-gi,mul-c'oŋ-ce-gi,m u l + t͈ɕ o ŋ + tɕ e + g i,,Nanmal2010,,,^ m u l - c' o ŋ - c e - g i $,default
+NGyeongsang-70_knee-1,,NGyeongsang,70_knee,mul-c'oŋ-ce-gi,mul-c'oŋ-ce-gi,m u l + tɕ͈ o ŋ + tɕ e + g i,,Nanmal2010,,,^ m u l - c' o ŋ - c e - g i $,default
 NGyeongsang-171_tofight-1,,NGyeongsang,171_tofight,ta-tun-,ta-tun-,t a + t u n,,Nanmal2010,,,^ t a - t u n -$,default
 NGyeongsang-194_torub-1,,NGyeongsang,194_torub,mun-dɛn-,mun-dɛn-,m u n + d ɛ n,,Nanmal2010,,,^ m u n - d ɛ n -$,default
 NGyeongsang-217_towash-1,,NGyeongsang,217_towash,si-k'u-sə,si-k'u-sə,s i + k͈ u + s ə,,Nanmal2010,,,^ s i - k' u - s ə $,default
@@ -856,7 +856,7 @@ NGyeongsang-113_round-1,,NGyeongsang,113_round,t'uŋ-gɨ-rup-,t'uŋ-gɨ-rup-,t͈
 NGyeongsang-240_with-1,,NGyeongsang,240_with,tə-bɨn,tə-bɨn,t ə + b ɨ n,,Nanmal2010,,,^ t ə - b ɨ n $,default
 SChungcheong-55_hand-1,,SChungcheong,55_hand,son,son,s o n,,Ogura1944,,,^ s o n $,default
 SChungcheong-73_left-1,,SChungcheong,73_left,o-jət,o-jət,o + dʑ ə t,,Ogura1944,,,^ o - j ə t $,default
-SChungcheong-107_right-1,,SChungcheong,107_right,o-rɨn-c'ok,o-rɨn-c'ok,o + ɾ ɨ n + t͈ɕ o k,,Nanmal2010,,,^ o - r ɨ n - c' o k $,default
+SChungcheong-107_right-1,,SChungcheong,107_right,o-rɨn-c'ok,o-rɨn-c'ok,o + ɾ ɨ n + tɕ͈ o k,,Nanmal2010,,,^ o - r ɨ n - c' o k $,default
 SChungcheong-226_walk-1,,SChungcheong,226_walk,kər-,kər-,k ə ɾ,,Ogura1944,,,^ k ə r -$,default
 SChungcheong-109_road-1,,SChungcheong,109_road,kil,kil,k i l,,Ogura1944,,,^ k i l $,default
 SChungcheong-215_toturn-1,,SChungcheong,215_toturn,tol-lin-,tol-lin-,t o l + l i n,,Ogura1944,,,^ t o l - l i n -$,default
@@ -904,8 +904,8 @@ SChungcheong-214_totieupfasten-1,,SChungcheong,214_totieupfasten,əŋ-nɨn-,əŋ
 SChungcheong-91_needle-1,,SChungcheong,91_needle,pa-nɨl,pa-nɨl,p a + n ɨ l,,Ogura1944,,,^ p a - n ɨ l $,default
 SChungcheong-199_toshoot-1,,SChungcheong,199_toshoot,s'on-,s'on-,s͈ o n,,Nanmal2010,,,^ s' o n -$,default
 SChungcheong-196_toscratch-1,,SChungcheong,196_toscratch,kɨk-,kɨk-,k ɨ k,,Nanmal2010,,,^ k ɨ k -$,default
-SChungcheong-163_tocuthack-1,,SChungcheong,163_tocuthack,c'a-rɨ-ni,c'a-rɨ-ni,t͈ɕ a + ɾ ɨ + n i,,Nanmal2010,,,^ c' a - r ɨ - n i $,default
-SChungcheong-135_stickwood-1,,SChungcheong,135_stickwood,c'ak-tɛ-gi,c'ak-tɛ-gi,t͈ɕ a k + t ɛ + g i,,Nanmal2010,,,^ c' a k - t ɛ - g i $,default
+SChungcheong-163_tocuthack-1,,SChungcheong,163_tocuthack,c'a-rɨ-ni,c'a-rɨ-ni,tɕ͈ a + ɾ ɨ + n i,,Nanmal2010,,,^ c' a - r ɨ - n i $,default
+SChungcheong-135_stickwood-1,,SChungcheong,135_stickwood,c'ak-tɛ-gi,c'ak-tɛ-gi,tɕ͈ a k + t ɛ + g i,,Nanmal2010,,,^ c' a k - t ɛ - g i $,default
 SChungcheong-204_tosplit-1,,SChungcheong,204_tosplit,kɛ-ri-,kɛ-ri-,k ɛ + ɾ i,,Nanmal2010,,,^ k ɛ - r i -$,default
 SChungcheong-189_toplant-1,,SChungcheong,189_toplant,sim-nɨn-,sim-nɨn-,s i m + n ɨ n,,Ogura1944,,,^ s i m - n ɨ n -$,default
 SChungcheong-157_tochoose-1,,SChungcheong,157_tochoose,ko-rɨn-,ko-rɨn-,k o + ɾ ɨ n,,Nanmal2010,,,^ k o - r ɨ n -$,default
@@ -958,12 +958,12 @@ SChungcheong-5_ash-1,,SChungcheong,5_ash,cɛ,cɛ,tɕ ɛ,,Ogura1944,,,^ c ɛ $,de
 SChungcheong-234_white-1,,SChungcheong,234_white,ha-ja-,ha-ja-,h a + dʑ a,,Nanmal2010,,,^h a - j a -$,default
 SChungcheong-106_red-1,,SChungcheong,106_red,p'al-ga-,p'al-ga-,p͈ a l + g a,,Nanmal2010,,,^ p' a l - g a -$,default
 SChungcheong-126_small-1,,SChungcheong,126_small,cək-,cək-,tɕ ə k,,Ogura1944,,,^ c ə k -$,default
-SChungcheong-13_big-1,,SChungcheong,13_big,c'i-dɨ-rət-,c'i-dɨ-rət-,t͈ɕ i + d ɨ + ɾ ə t,,Nanmal2010,,,^ c' i - d ɨ - r ə t -$,default
-SChungcheong-120_short-1,,SChungcheong,120_short,c'al-,c'al-,t͈ɕ a l,,Nanmal2010,,,^ c' a l -$,default
+SChungcheong-13_big-1,,SChungcheong,13_big,c'i-dɨ-rət-,c'i-dɨ-rət-,tɕ͈ i + d ɨ + ɾ ə t,,Nanmal2010,,,^ c' i - d ɨ - r ə t -$,default
+SChungcheong-120_short-1,,SChungcheong,120_short,c'al-,c'al-,tɕ͈ a l,,Nanmal2010,,,^ c' a l -$,default
 SChungcheong-77_long-1,,SChungcheong,77_long,cil-,cil-,tɕ i l,,Ogura1944,,,^ c i l -$,default
 SChungcheong-145_thick-1,,SChungcheong,145_thick,kuk-,kuk-,k u k,,Nanmal2010,,,^ k u k -$,default
-SChungcheong-88_narrow-1,,SChungcheong,88_narrow,c'op-,c'op-,t͈ɕ o p,,Nanmal2010,,,^ c' o p -$,default
-SChungcheong-236_wide-1,,SChungcheong,236_wide,nəl-c'ik-,nəl-c'ik-,n ə l + t͈ɕ i k,,Nanmal2010,,,^ n ə l - c' i k -$,default
+SChungcheong-88_narrow-1,,SChungcheong,88_narrow,c'op-,c'op-,tɕ͈ o p,,Nanmal2010,,,^ c' o p -$,default
+SChungcheong-236_wide-1,,SChungcheong,236_wide,nəl-c'ik-,nəl-c'ik-,n ə l + tɕ͈ i k,,Nanmal2010,,,^ n ə l - c' i k -$,default
 SChungcheong-102_painfulsick-1,,SChungcheong,102_painfulsick,al-,al-,a l,,Nanmal2010,,,^ a l -$,default
 SChungcheong-51_good-1,,SChungcheong,51_good,co-,co-,tɕ o,,Nanmal2010,,,^ c o -$,default
 SChungcheong-93_night-1,,SChungcheong,93_night,pa-me,pa-me,p a + m e,,Nanmal2010,,,^ p a - m e $,default
@@ -983,7 +983,7 @@ SChungcheong-235_who-1,,SChungcheong,235_who,nu-ga,nu-ga,n u + g a,,Nanmal2010,,
 SChungcheong-2_all-1,,SChungcheong,2_all,mo-do,mo-do,m o + d o,,Nanmal2010,,,^ m o - d o $,default
 SChungcheong-3_and-1,,SChungcheong,3_and,wa(kwa)/raŋ,wa,w a,,Ogura1944,,,^ w a $,default
 SChungcheong-3_and-2,,SChungcheong,3_and,wa(kwa)/raŋ,raŋ,ɾ a ŋ,,Ogura1944,,,^ r a ŋ $,default
-SChungcheong-63_how-1,,SChungcheong,63_how,ə-c'ɛ,ə-c'ɛ,ə + t͈ɕ ɛ,,Nanmal2010,,,^ ə - c' ɛ $,default
+SChungcheong-63_how-1,,SChungcheong,63_how,ə-c'ɛ,ə-c'ɛ,ə + tɕ͈ ɛ,,Nanmal2010,,,^ ə - c' ɛ $,default
 SChungcheong-161_tocount-1,,SChungcheong,161_tocount,si-,si-,s i,,Nanmal2010,,,^ s i -$,default
 SChungcheong-98_one-1,,SChungcheong,98_one,han-na,han-na,h a n + n a,,Nanmal2010,,,^h a n - n a $,default
 SChungcheong-225_two-1,,SChungcheong,225_two,tu-kɛ,tu-kɛ,t u + k ɛ,,Nanmal2010,,,^ t u - k ɛ $,default
@@ -998,7 +998,7 @@ SChungcheong-41_fifty-1,,SChungcheong,41_fifty,swi-un,swi-un,s w i + u n,,Nanmal
 SChungcheong-60_here-1,,SChungcheong,60_here,yə-gi,yə-gi,j ə + g i,,Ogura1944,,,^ y ə - g i $,default
 SChungcheong-143_there-1,,SChungcheong,143_there,cə-gi,cə-gi,tɕ ə + g i,,Ogura1944,,,^ c ə - g i $,default
 SChungcheong-80_many-1,,SChungcheong,80_many,man-hi,man-hi,m a n + h i,,Ogura1944,,,^ m a n -h i $,default
-SChungcheong-40_few-1,,SChungcheong,40_few,c'a-k'ɨm,c'a-k'ɨm,t͈ɕ a + k͈ ɨ m,,Nanmal2010,,,^ c' a - k' ɨ m $,default
+SChungcheong-40_few-1,,SChungcheong,40_few,c'a-k'ɨm,c'a-k'ɨm,tɕ͈ a + k͈ ɨ m,,Nanmal2010,,,^ c' a - k' ɨ m $,default
 SChungcheong-223_tree-1,,SChungcheong,223_tree,na-mu/naŋ-gu,na-mu,n a + m u,,Ogura1944,,,^ n a - m u $,default
 SChungcheong-223_tree-2,,SChungcheong,223_tree,na-mu/naŋ-gu,naŋ-gu,n a ŋ + g u,,Ogura1944,,,^ n a ŋ - g u $,default
 SChungcheong-9_barkofatree-1,,SChungcheong,9_barkofatree,k'əp-te,k'əp-te,k͈ ə p + t e,,Nanmal2010,,,^ k' ə p - t e $,default
@@ -1015,7 +1015,7 @@ SChungcheong-240_with-1,,SChungcheong,240_with,ha-njaŋ,ha-njaŋ,h a + n dʑ a �
 SChungcheong-10_because-1,,SChungcheong,10_because,t'ɛ-mi,t'ɛ-mi,t͈ ɛ + m i,,Nanmal2010,,,^ t' ɛ - m i $,default
 NChungcheong-55_hand-1,,NChungcheong,55_hand,son,son,s o n,,Ogura1944,,,^ s o n $,default
 NChungcheong-73_left-1,,NChungcheong,73_left,øn,øn,ø n,,Ogura1944,,,^ ø n $,default
-NChungcheong-107_right-1,,NChungcheong,107_right,o-rɨn-c'ok,o-rɨn-c'ok,o + ɾ ɨ n + t͈ɕ o k,,Nanmal2010,,,^ o - r ɨ n - c' o k $,default
+NChungcheong-107_right-1,,NChungcheong,107_right,o-rɨn-c'ok,o-rɨn-c'ok,o + ɾ ɨ n + tɕ͈ o k,,Nanmal2010,,,^ o - r ɨ n - c' o k $,default
 NChungcheong-226_walk-1,,NChungcheong,226_walk,kər-,kər-,k ə ɾ,,Ogura1944,,,^ k ə r -$,default
 NChungcheong-109_road-1,,NChungcheong,109_road,cil,cil,tɕ i l,,Ogura1944,,,^ c i l $,default
 NChungcheong-215_toturn-1,,NChungcheong,215_toturn,tol-lin-,tol-lin-,t o l + l i n,,Ogura1944,,,^ t o l - l i n -$,default
@@ -1073,7 +1073,7 @@ NChungcheong-204_tosplit-1,,NChungcheong,204_tosplit,kal-ri-,kal-ri-,k a l + ɾ 
 NChungcheong-189_toplant-1,,NChungcheong,189_toplant,sim-gun-,sim-gun-,s i m + g u n,,Ogura1944,,,^ s i m - g u n -$,default
 NChungcheong-157_tochoose-1,,NChungcheong,157_tochoose,ko-rɨn-,ko-rɨn-,k o + ɾ ɨ n,,Nanmal2010,,,^ k o - r ɨ n -$,default
 NChungcheong-177_togrow-1,,NChungcheong,177_togrow,cil-gu-,cil-gu-,tɕ i l + g u,,Nanmal2010,,,^ c i l - g u -$,default
-NChungcheong-205_tosqueeze-1,,NChungcheong,205_tosqueeze,c'an-,c'an-,t͈ɕ a n,,Nanmal2010,,,^ c' a n -$,default
+NChungcheong-205_tosqueeze-1,,NChungcheong,205_tosqueeze,c'an-,c'an-,tɕ͈ a n,,Nanmal2010,,,^ c' a n -$,default
 NChungcheong-181_tohold-1,,NChungcheong,181_tohold,pu-tɨl-,pu-tɨl-,p u + t ɨ l,,Nanmal2010,,,^ p u - t ɨ l -$,default
 NChungcheong-155_tobuy-1,,NChungcheong,155_tobuy,san-,san-,s a n,,Ogura1944,,,^ s a n -$,default
 NChungcheong-188_toopenuncover-1,,NChungcheong,188_toopenuncover,t'a-,t'a-,t͈ a,,Nanmal2010,,,^ t' a -$,default
@@ -1128,11 +1128,11 @@ NChungcheong-106_red-1,,NChungcheong,106_red,p'al-ga-,p'al-ga-,p͈ a l + g a,,Na
 NChungcheong-53_green-1,,NChungcheong,53_green,pu-rɨ-sɨ-rɨm-,pu-rɨ-sɨ-rɨm-,p u + ɾ ɨ + s ɨ + ɾ ɨ m,,Nanmal2010,,,^ p u - r ɨ - s ɨ - r ɨ m -$,default
 NChungcheong-126_small-1,,NChungcheong,126_small,cək-,cək-,tɕ ə k,,Ogura1944,,,^ c ə k -$,default
 NChungcheong-13_big-1,,NChungcheong,13_big,kə-da-ra-,kə-da-ra-,k ə + d a + ɾ a,,Nanmal2010,,,^ k ə - d a - r a -$,default
-NChungcheong-120_short-1,,NChungcheong,120_short,c'al-,c'al-,t͈ɕ a l,,Nanmal2010,,,^ c' a l -$,default
+NChungcheong-120_short-1,,NChungcheong,120_short,c'al-,c'al-,tɕ͈ a l,,Nanmal2010,,,^ c' a l -$,default
 NChungcheong-77_long-1,,NChungcheong,77_long,cil-,cil-,tɕ i l,,Ogura1944,,,^ c i l -$,default
 NChungcheong-145_thick-1,,NChungcheong,145_thick,kuk-,kuk-,k u k,,Nanmal2010,,,^ k u k -$,default
-NChungcheong-88_narrow-1,,NChungcheong,88_narrow,c'op-,c'op-,t͈ɕ o p,,Nanmal2010,,,^ c' o p -$,default
-NChungcheong-236_wide-1,,NChungcheong,236_wide,nəl-c'ik-,nəl-c'ik-,n ə l + t͈ɕ i k,,Nanmal2010,,,^ n ə l - c' i k -$,default
+NChungcheong-88_narrow-1,,NChungcheong,88_narrow,c'op-,c'op-,tɕ͈ o p,,Nanmal2010,,,^ c' o p -$,default
+NChungcheong-236_wide-1,,NChungcheong,236_wide,nəl-c'ik-,nəl-c'ik-,n ə l + tɕ͈ i k,,Nanmal2010,,,^ n ə l - c' i k -$,default
 NChungcheong-102_painfulsick-1,,NChungcheong,102_painfulsick,a-pu-,a-pu-,a + p u,,Nanmal2010,,,^ a - p u -$,default
 NChungcheong-122_shyashamed-1,,NChungcheong,122_shyashamed,pu-k'ɨ-rəp-,pu-k'ɨ-rəp-,p u + k͈ ɨ + ɾ ə p,,Nanmal2010,,,^ p u - k' ɨ - r ə p -$,default
 NChungcheong-92_new-1,,NChungcheong,92_new,sɛ-rup-,sɛ-rup-,s ɛ + ɾ u p,,Nanmal2010,,,^ s ɛ - r u p -$,default
@@ -1155,7 +1155,7 @@ NChungcheong-235_who-1,,NChungcheong,235_who,nu-gu,nu-gu,n u + g u,,Nanmal2010,,
 NChungcheong-2_all-1,,NChungcheong,2_all,moŋ-tak,moŋ-tak,m o ŋ + t a k,,Nanmal2010,,,^ m o ŋ - t a k $,default
 NChungcheong-3_and-1,,NChungcheong,3_and,wa(kwa)/raŋ,wa,w a,,Ogura1944,,,^ w a $,default
 NChungcheong-3_and-2,,NChungcheong,3_and,wa(kwa)/raŋ,raŋ,ɾ a ŋ,,Ogura1944,,,^ r a ŋ $,default
-NChungcheong-63_how-1,,NChungcheong,63_how,ə-c'ɛ,ə-c'ɛ,ə + t͈ɕ ɛ,,Nanmal2010,,,^ ə - c' ɛ $,default
+NChungcheong-63_how-1,,NChungcheong,63_how,ə-c'ɛ,ə-c'ɛ,ə + tɕ͈ ɛ,,Nanmal2010,,,^ ə - c' ɛ $,default
 NChungcheong-161_tocount-1,,NChungcheong,161_tocount,si-,si-,s i,,Nanmal2010,,,^ s i -$,default
 NChungcheong-98_one-1,,NChungcheong,98_one,han-kɛ,han-kɛ,h a n + k ɛ,,Nanmal2010,,,^h a n - k ɛ $,default
 NChungcheong-225_two-1,,NChungcheong,225_two,tu-kɛ,tu-kɛ,t u + k ɛ,,Nanmal2010,,,^ t u - k ɛ $,default
@@ -1171,7 +1171,7 @@ NChungcheong-41_fifty-1,,NChungcheong,41_fifty,swi-ɨn,swi-ɨn,s w i + ɨ n,,Nan
 NChungcheong-60_here-1,,NChungcheong,60_here,yə-gi,yə-gi,j ə + g i,,Ogura1944,,,^ y ə - g i $,default
 NChungcheong-143_there-1,,NChungcheong,143_there,cəp-cak,cəp-cak,tɕ ə p + tɕ a k,,Ogura1944,,,^ c ə p - c a k $,default
 NChungcheong-80_many-1,,NChungcheong,80_many,man-hi,man-hi,m a n + h i,,Ogura1944,,,^ m a n -h i $,default
-NChungcheong-40_few-1,,NChungcheong,40_few,c'a-k'ɨm,c'a-k'ɨm,t͈ɕ a + k͈ ɨ m,,Nanmal2010,,,^ c' a - k' ɨ m $,default
+NChungcheong-40_few-1,,NChungcheong,40_few,c'a-k'ɨm,c'a-k'ɨm,tɕ͈ a + k͈ ɨ m,,Nanmal2010,,,^ c' a - k' ɨ m $,default
 NChungcheong-223_tree-1,,NChungcheong,223_tree,naŋ-gu/na-mu,naŋ-gu,n a ŋ + g u,,Ogura1944,,,^ n a ŋ - g u $,default
 NChungcheong-223_tree-2,,NChungcheong,223_tree,naŋ-gu/na-mu,na-mu,n a + m u,,Ogura1944,,,^ n a - m u $,default
 NChungcheong-117_seed-1,,NChungcheong,117_seed,s'i-kap-si,s'i-kap-si,s͈ i + k a p + s i,,Nanmal2010,,,^ s' i - k a p - s i $,default
@@ -1192,8 +1192,8 @@ NChungcheong-137_straight-1,,NChungcheong,137_straight,kok-,kok-,k o k,,Nanmal20
 NChungcheong-113_round-1,,NChungcheong,113_round,t'uŋ-gɨl-,t'uŋ-gɨl-,t͈ u ŋ + g ɨ l,,Nanmal2010,,,^ t' u ŋ - g ɨ l -$,default
 NChungcheong-240_with-1,,NChungcheong,240_with,ha-njaŋ,ha-njaŋ,h a + n dʑ a ŋ,,Nanmal2010,,,^h a - n j a ŋ $,default
 Gyeonggi-55_hand-1,,Gyeonggi,55_hand,son,son,s o n,,Ogura1944,,,^ s o n $,default
-Gyeonggi-73_left-1,,Gyeonggi,73_left,øn-j'at,øn-j'at,ø n + d͈ʑ a t,,Ogura1944,,,^ ø n - j' a t $,default
-Gyeonggi-107_right-1,,Gyeonggi,107_right,o-rɨn-c'ok,o-rɨn-c'ok,o + ɾ ɨ n + t͈ɕ o k,,Ogura1944,,,^ o - r ɨ n - c' o k $,default
+Gyeonggi-73_left-1,,Gyeonggi,73_left,øn-j'at,øn-j'at,ø n + dʑ͈ a t,,Ogura1944,,,^ ø n - j' a t $,default
+Gyeonggi-107_right-1,,Gyeonggi,107_right,o-rɨn-c'ok,o-rɨn-c'ok,o + ɾ ɨ n + tɕ͈ o k,,Ogura1944,,,^ o - r ɨ n - c' o k $,default
 Gyeonggi-74_leg-1,,Gyeonggi,74_leg,ta-ri,ta-ri,t a + ɾ i,,Ogura1944,,,^ t a - r i $,default
 Gyeonggi-226_walk-1,,Gyeonggi,226_walk,kər-,kər-,k ə ɾ,,Ogura1944,,,^ k ə r -$,default
 Gyeonggi-109_road-1,,Gyeonggi,109_road,kil,kil,k i l,,Ogura1944,,,^ k i l $,default
@@ -1261,7 +1261,7 @@ Gyeonggi-198_tosew-1,,Gyeonggi,198_tosew,k'o-mɛ-,k'o-mɛ-,k͈ o + m ɛ,,Ogura19
 Gyeonggi-91_needle-1,,Gyeonggi,91_needle,pa-nɨl,pa-nɨl,p a + n ɨ l,,Ogura1944,,,^ p a - n ɨ l $,default
 Gyeonggi-182_tohunt-1,,Gyeonggi,182_tohunt,sɛ-njaŋ-,sɛ-njaŋ-,s ɛ + n dʑ a ŋ,,Ogura1944,,,^ s ɛ - n j a ŋ -$,default
 Gyeonggi-199_toshoot-1,,Gyeonggi,199_toshoot,s'on-,s'on-,s͈ o n,,Ogura1944,,,^ s' o n -$,default
-Gyeonggi-206_tostabpierce-1,,Gyeonggi,206_tostabpierce,c'i-rɨ-,c'i-rɨ-,t͈ɕ i + ɾ ɨ,,Ogura1944,,,^ c' i - r ɨ -$,default
+Gyeonggi-206_tostabpierce-1,,Gyeonggi,206_tostabpierce,c'i-rɨ-,c'i-rɨ-,tɕ͈ i + ɾ ɨ,,Ogura1944,,,^ c' i - r ɨ -$,default
 Gyeonggi-180_tohit-1,,Gyeonggi,180_tohit,cʰi-,cʰi-,tɕʰ i,,Ogura1944,,,^ cʰ i -$,default
 Gyeonggi-208_tosteal-1,,Gyeonggi,208_tosteal,hum-cʰi-,hum-cʰi-,h u m + tɕʰ i,,Ogura1944,,,^h u m - cʰ i -$,default
 Gyeonggi-183_tokill-1,,Gyeonggi,183_tokill,cu-gi-,cu-gi-,tɕ u + g i,,Ogura1944,,,^ c u - g i -$,default
@@ -1278,7 +1278,7 @@ Gyeonggi-189_toplant-1,,Gyeonggi,189_toplant,sim-nɨn-,sim-nɨn-,s i m + n ɨ n,
 Gyeonggi-157_tochoose-1,,Gyeonggi,157_tochoose,ko-rɨ-,ko-rɨ-,k o + ɾ ɨ,,Ogura1944,,,^ k o - r ɨ -$,default
 Gyeonggi-177_togrow-1,,Gyeonggi,177_togrow,ki-rɨn-,ki-rɨn-,k i + ɾ ɨ n,,Ogura1944,,,^ k i - r ɨ n -$,default
 Gyeonggi-210_toswell-1,,Gyeonggi,210_toswell,put-,put-,p u t,,Ogura1944,,,^ p u t -$,default
-Gyeonggi-205_tosqueeze-1,,Gyeonggi,205_tosqueeze,c'a-,c'a-,t͈ɕ a,,Ogura1944,,,^ c' a -$,default
+Gyeonggi-205_tosqueeze-1,,Gyeonggi,205_tosqueeze,c'a-,c'a-,tɕ͈ a,,Ogura1944,,,^ c' a -$,default
 Gyeonggi-181_tohold-1,,Gyeonggi,181_tohold,cap-,cap-,tɕ a p,,Ogura1944,,,^ c a p -$,default
 Gyeonggi-165_todig-1,,Gyeonggi,165_todig,pa-,pa-,p a,,Ogura1944,,,^ p a -$,default
 Gyeonggi-155_tobuy-1,,Gyeonggi,155_tobuy,san-,san-,s a n,,Ogura1944,,,^ s a n -$,default
@@ -1345,7 +1345,7 @@ Gyeonggi-246_yellow-1,,Gyeonggi,246_yellow,no-ra-,no-ra-,n o + ɾ a,,Ogura1944,,
 Gyeonggi-53_green-1,,Gyeonggi,53_green,pu-rɨ-,pu-rɨ-,p u + ɾ ɨ,,Ogura1944,,,^ p u - r ɨ -$,default
 Gyeonggi-126_small-1,,Gyeonggi,126_small,cak-,cak-,tɕ a k,,Ogura1944,,,^ c a k -$,default
 Gyeonggi-13_big-1,,Gyeonggi,13_big,kɨ-,kɨ-,k ɨ,,Ogura1944,,,^ k ɨ -$,default
-Gyeonggi-120_short-1,,Gyeonggi,120_short,c'al-,c'al-,t͈ɕ a l,,Ogura1944,,,^ c' a l -$,default
+Gyeonggi-120_short-1,,Gyeonggi,120_short,c'al-,c'al-,tɕ͈ a l,,Ogura1944,,,^ c' a l -$,default
 Gyeonggi-77_long-1,,Gyeonggi,77_long,kil-,kil-,k i l,,Ogura1944,,,^ k i l -$,default
 Gyeonggi-146_thin-1,,Gyeonggi,146_thin,jal-,jal-,dʑ a l,,Ogura1944,,,^ j a l -$,default
 Gyeonggi-145_thick-1,,Gyeonggi,145_thick,kul-,kul-,k u l,,Ogura1944,,,^ k u l -$,default
@@ -1442,7 +1442,7 @@ Gyeonggi-240_with-1,,Gyeonggi,240_with,ham-k'e,ham-k'e,h a m + k͈ e,,Ogura1944,
 Gyeonggi-10_because-1,,Gyeonggi,10_because,t'ɛ-mun,t'ɛ-mun,t͈ ɛ + m u n,,Ogura1944,,,^ t' ɛ - m u n $,default
 Gangwon-55_hand-1,,Gangwon,55_hand,son,son,s o n,,Ogura1944,,,^ s o n $,default
 Gangwon-73_left-1,,Gangwon,73_left,øn,øn,ø n,,Ogura1944,,,^ ø n $,default
-Gangwon-107_right-1,,Gangwon,107_right,pa-rɨn-c'ok,pa-rɨn-c'ok,p a + ɾ ɨ n + t͈ɕ o k,,Nanmal2010,,,^ p a - r ɨ n - c' o k $,default
+Gangwon-107_right-1,,Gangwon,107_right,pa-rɨn-c'ok,pa-rɨn-c'ok,p a + ɾ ɨ n + tɕ͈ o k,,Nanmal2010,,,^ p a - r ɨ n - c' o k $,default
 Gangwon-74_leg-1,,Gangwon,74_leg,tal-gu-ri,tal-gu-ri,t a l + g u + ɾ i,,Nanmal2010,,,^ t a l - g u - r i $,default
 Gangwon-226_walk-1,,Gangwon,226_walk,kər-,kər-,k ə ɾ,,Ogura1944,,,^ k ə r -$,default
 Gangwon-109_road-1,,Gangwon,109_road,kil,kil,k i l,,Ogura1944,,,^ k i l $,default
@@ -1501,7 +1501,7 @@ Gangwon-204_tosplit-1,,Gangwon,204_tosplit,ka-rin-,ka-rin-,k a + ɾ i n,,Nanmal2
 Gangwon-189_toplant-1,,Gangwon,189_toplant,siŋ-gun-,siŋ-gun-,s i ŋ + g u n,,Ogura1944,,,^ s i ŋ - g u n -$,default
 Gangwon-157_tochoose-1,,Gangwon,157_tochoose,ko-rɨn-,ko-rɨn-,k o + ɾ ɨ n,,Nanmal2010,,,^ k o - r ɨ n -$,default
 Gangwon-177_togrow-1,,Gangwon,177_togrow,cil-gu-,cil-gu-,tɕ i l + g u,,Nanmal2010,,,^ c i l - g u -$,default
-Gangwon-205_tosqueeze-1,,Gangwon,205_tosqueeze,c'an-,c'an-,t͈ɕ a n,,Nanmal2010,,,^ c' a n -$,default
+Gangwon-205_tosqueeze-1,,Gangwon,205_tosqueeze,c'an-,c'an-,tɕ͈ a n,,Nanmal2010,,,^ c' a n -$,default
 Gangwon-181_tohold-1,,Gangwon,181_tohold,uŋ-ki-,uŋ-ki-,u ŋ + k i,,Nanmal2010,,,^ u ŋ - k i -$,default
 Gangwon-155_tobuy-1,,Gangwon,155_tobuy,san-,san-,s a n,,Ogura1944,,,^ s a n -$,default
 Gangwon-191_topoundbeat-1,,Gangwon,191_topoundbeat,pɛŋ-,pɛŋ-,p ɛ ŋ,,Nanmal2010,,,^ p ɛ ŋ -$,default
@@ -1556,11 +1556,11 @@ Gangwon-106_red-1,,Gangwon,106_red,p'al-kat-,p'al-kat-,p͈ a l + k a t,,Nanmal20
 Gangwon-53_green-1,,Gangwon,53_green,pu-rɨ-sɨ-rɨm-,pu-rɨ-sɨ-rɨm-,p u + ɾ ɨ + s ɨ + ɾ ɨ m,,Nanmal2010,,,^ p u - r ɨ - s ɨ - r ɨ m -$,default
 Gangwon-126_small-1,,Gangwon,126_small,cək-,cək-,tɕ ə k,,Ogura1944,,,^ c ə k -$,default
 Gangwon-13_big-1,,Gangwon,13_big,kə-dɨ-ma-,kə-dɨ-ma-,k ə + d ɨ + m a,,Nanmal2010,,,^ k ə - d ɨ - m a -$,default
-Gangwon-120_short-1,,Gangwon,120_short,c'al-,c'al-,t͈ɕ a l,,Nanmal2010,,,^ c' a l -$,default
+Gangwon-120_short-1,,Gangwon,120_short,c'al-,c'al-,tɕ͈ a l,,Nanmal2010,,,^ c' a l -$,default
 Gangwon-77_long-1,,Gangwon,77_long,cil-,cil-,tɕ i l,,Ogura1944,,,^ c i l -$,default
 Gangwon-145_thick-1,,Gangwon,145_thick,kuk-,kuk-,k u k,,Nanmal2010,,,^ k u k -$,default
-Gangwon-88_narrow-1,,Gangwon,88_narrow,c'op-,c'op-,t͈ɕ o p,,Nanmal2010,,,^ c' o p -$,default
-Gangwon-236_wide-1,,Gangwon,236_wide,nəl-c'ik-,nəl-c'ik-,n ə l + t͈ɕ i k,,Nanmal2010,,,^ n ə l - c' i k -$,default
+Gangwon-88_narrow-1,,Gangwon,88_narrow,c'op-,c'op-,tɕ͈ o p,,Nanmal2010,,,^ c' o p -$,default
+Gangwon-236_wide-1,,Gangwon,236_wide,nəl-c'ik-,nəl-c'ik-,n ə l + tɕ͈ i k,,Nanmal2010,,,^ n ə l - c' i k -$,default
 Gangwon-102_painfulsick-1,,Gangwon,102_painfulsick,a-pɨ-,a-pɨ-,a + p ɨ,,Nanmal2010,,,^ a - p ɨ -$,default
 Gangwon-122_shyashamed-1,,Gangwon,122_shyashamed,nam-sa-si-rəp-,nam-sa-si-rəp-,n a m + s a + s i + ɾ ə p,,Nanmal2010,,,^ n a m - s a - s i - r ə p -$,default
 Gangwon-92_new-1,,Gangwon,92_new,sɛ-rup-,sɛ-rup-,s ɛ + ɾ u p,,Nanmal2010,,,^ s ɛ - r u p -$,default
@@ -1582,7 +1582,7 @@ Gangwon-235_who-1,,Gangwon,235_who,nu-gu,nu-gu,n u + g u,,Nanmal2010,,,^ n u - g
 Gangwon-2_all-1,,Gangwon,2_all,ma-kʰa,ma-kʰa,m a + kʰ a,,Nanmal2010,,,^ m a - kʰ a $,default
 Gangwon-3_and-1,,Gangwon,3_and,wa(kwa)/kʰwaŋ,wa,w a,,Ogura1944,,,^ w a $,default
 Gangwon-3_and-2,,Gangwon,3_and,wa(kwa)/kʰwaŋ,kʰwaŋ,kʰ w a ŋ,,Ogura1944,,,^ kʰ w a ŋ $,default
-Gangwon-63_how-1,,Gangwon,63_how,ə-c'ɛ,ə-c'ɛ,ə + t͈ɕ ɛ,,Nanmal2010,,,^ ə - c' ɛ $,default
+Gangwon-63_how-1,,Gangwon,63_how,ə-c'ɛ,ə-c'ɛ,ə + tɕ͈ ɛ,,Nanmal2010,,,^ ə - c' ɛ $,default
 Gangwon-161_tocount-1,,Gangwon,161_tocount,he-,he-,h e,,Nanmal2010,,,^h e -$,default
 Gangwon-98_one-1,,Gangwon,98_one,han-na,han-na,h a n + n a,,Nanmal2010,,,^h a n - n a $,default
 Gangwon-225_two-1,,Gangwon,225_two,tu-na,tu-na,t u + n a,,Nanmal2010,,,^ t u - n a $,default
@@ -1626,7 +1626,7 @@ Hwanghae-109_road-1,,Hwanghae,109_road,kil,kil,k i l,,Ogura1944,,,^ k i l $,defa
 Hwanghae-215_toturn-1,,Hwanghae,215_toturn,tol-lin-,tol-lin-,t o l + l i n,,Ogura1944,,,^ t o l - l i n -$,default
 Hwanghae-26_dirty-1,,Hwanghae,26_dirty,cʰi-k'un-,cʰi-k'un-,tɕʰ i + k͈ u n,,Nanmal2010,,,^ cʰ i - k' u n -$,default
 Hwanghae-30_dust-1,,Hwanghae,30_dust,mon-ɟi,mon-ɟi,m o n + ɟ i,,Ogura1944,,,^ m o n - ɟ i $,default
-Hwanghae-7_back-1,,Hwanghae,7_back,twit-c'an-dɨŋ,twit-c'an-dɨŋ,t w i t + t͈ɕ a n + d ɨ ŋ,,Ogura1944,,,^ t w i t - c' a n - d ɨ ŋ $,default
+Hwanghae-7_back-1,,Hwanghae,7_back,twit-c'an-dɨŋ,twit-c'an-dɨŋ,t w i t + tɕ͈ a n + d ɨ ŋ,,Ogura1944,,,^ t w i t - c' a n - d ɨ ŋ $,default
 Hwanghae-11_belly-1,,Hwanghae,11_belly,pɛ,pɛ,p ɛ,,Ogura1944,,,^ p ɛ $,default
 Hwanghae-121_shoulder-1,,Hwanghae,121_shoulder,ək-kɛ,ək-kɛ,ə k + k ɛ,,Ogura1944,,,^ ə k - k ɛ $,default
 Hwanghae-212_tothink-1,,Hwanghae,212_tothink,sin-,sin-,s i n,,Nanmal2010,,,^ s i n -$,default
@@ -1857,7 +1857,7 @@ NHamgyong-239_wing-1,,NHamgyong,239_wing,pu-cʰul,pu-cʰul,p u + tɕʰ u l,,Nanm
 NHamgyong-105_rat-1,,NHamgyong,105_rat,no-sɨŋ,no-sɨŋ,n o + s ɨ ŋ,,Nanmal2010,,,^ n o - s ɨ ŋ $,default
 NHamgyong-139_tail-1,,NHamgyong,139_tail,k'o-ri,k'o-ri,k͈ o + ɾ i,,Ogura1944,,,^ k' o - r i $,default
 NHamgyong-130_snake-1,,NHamgyong,130_snake,pɛ:-jam,pɛ:-jam,p ɛː + dʑ a m,,Ogura1944,,,^ p ɛ: - j a m $,default
-NHamgyong-243_wormearthworm-1,,NHamgyong,243_wormearthworm,tɛ-c'i-ne,tɛ-c'i-ne,t ɛ + t͈ɕ i + n e,,Nanmal2010,,,^ t ɛ - c' i - n e $,default
+NHamgyong-243_wormearthworm-1,,NHamgyong,243_wormearthworm,tɛ-c'i-ne,tɛ-c'i-ne,t ɛ + tɕ͈ i + n e,,Nanmal2010,,,^ t ɛ - c' i - n e $,default
 NHamgyong-78_louse-1,,NHamgyong,78_louse,nɨy,nɨy,n ɨ j,,Ogura1944,,,^ n ɨ y $,default
 NHamgyong-43_fish-1,,NHamgyong,43_fish,ko-gi,ko-gi,k o + g i,,Ogura1944,,,^ k o - g i $,default
 NHamgyong-18_branch-1,,NHamgyong,18_branch,a-cʰi,a-cʰi,a + tɕʰ i,,Ogura1944,,,^ a - cʰ i $,default
@@ -2020,7 +2020,7 @@ NPyongan-215_toturn-1,,NPyongan,215_toturn,tol-lin-,tol-lin-,t o l + l i n,,Ogur
 NPyongan-211_toswim-1,,NPyongan,211_toswim,hem-,hem-,h e m,,Nanmal2010,,,^h e m -$,default
 NPyongan-26_dirty-1,,NPyongan,26_dirty,k'e-k'in-,k'e-k'in-,k͈ e + k͈ i n,,Nanmal2010,,,^ k' e - k' i n -$,default
 NPyongan-30_dust-1,,NPyongan,30_dust,moŋ-daŋ,moŋ-daŋ,m o ŋ + d a ŋ,,Ogura1944,,,^ m o ŋ - d a ŋ $,default
-NPyongan-7_back-1,,NPyongan,7_back,twit-c'an-dɨŋ,twit-c'an-dɨŋ,t w i t + t͈ɕ a n + d ɨ ŋ,,Ogura1944,,,^ t w i t - c' a n - d ɨ ŋ $,default
+NPyongan-7_back-1,,NPyongan,7_back,twit-c'an-dɨŋ,twit-c'an-dɨŋ,t w i t + tɕ͈ a n + d ɨ ŋ,,Ogura1944,,,^ t w i t - c' a n - d ɨ ŋ $,default
 NPyongan-11_belly-1,,NPyongan,11_belly,hə-buk,hə-buk,h ə + b u k,,Ogura1944,,,^h ə - b u k $,default
 NPyongan-17_bone-1,,NPyongan,17_bone,p'e-da-gu,p'e-da-gu,p͈ e + d a + g u,,Nanmal2010,,,^ p' e - d a - g u $,default
 NPyongan-121_shoulder-1,,NPyongan,121_shoulder,ək-kɛ,ək-kɛ,ə k + k ɛ,,Ogura1944,,,^ ə k - k ɛ $,default
@@ -2101,7 +2101,7 @@ NPyongan-141_that-1,,NPyongan,141_that,te-ku,te-ku,t e + k u,,Nanmal2010,,,^ t e
 NPyongan-89_near-1,,NPyongan,89_near,kat-cap-,kat-cap-,k a t + tɕ a p,,Ogura1944,,,^ k a t - c a p -$,default
 NPyongan-233_where-1,,NPyongan,233_where,ə-di-me,ə-di-me,ə + d i + m e,,Nanmal2010,,,^ ə - d i - m e $,default
 NPyongan-148_thou-1,,NPyongan,148_thou,nə,nə,n ə,,Ogura1944,,,^ n ə $,default
-NPyongan-2_all-1,,NPyongan,2_all,mɛl-c'ak,mɛl-c'ak,m ɛ l + t͈ɕ a k,,Nanmal2010,,,^ m ɛ l - c' a k $,default
+NPyongan-2_all-1,,NPyongan,2_all,mɛl-c'ak,mɛl-c'ak,m ɛ l + tɕ͈ a k,,Nanmal2010,,,^ m ɛ l - c' a k $,default
 NPyongan-3_and-1,,NPyongan,3_and,wa(kwa),wa,w a,,Ogura1944,,,^ w a $,default
 NPyongan-98_one-1,,NPyongan,98_one,han-na,han-na,h a n + n a,,Nanmal2010,,,^h a n - n a $,default
 NPyongan-225_two-1,,NPyongan,225_two,tu-ul,tu-ul,t u + u l,,Nanmal2010,,,^ t u - u l $,default
@@ -2188,7 +2188,7 @@ MKorean-214_totieupfasten-1,,MKorean,214_totieupfasten,əl-kə-me-,əl-kə-me-,�
 MKorean-91_needle-1,,MKorean,91_needle,pa-nɨl,pa-nɨl,p a + n ɨ l,,Nam2014,,,^ p a - n ɨ l $,default
 MKorean-182_tohunt-1,,MKorean,182_tohunt,sa-njəŋ-,sa-njəŋ-,s a + n dʑ ə ŋ,,Nam2014,,,^ s a - n j ə ŋ -$,default
 MKorean-199_toshoot-1,,MKorean,199_toshoot,s'o,s'o,s͈ o,,Nam2014,,,^ s' o $,default
-MKorean-206_tostabpierce-1,,MKorean,206_tostabpierce,c'i-rɨ-,c'i-rɨ-,t͈ɕ i + ɾ ɨ,,Nam2014,,,^ c' i - r ɨ -$,default
+MKorean-206_tostabpierce-1,,MKorean,206_tostabpierce,c'i-rɨ-,c'i-rɨ-,tɕ͈ i + ɾ ɨ,,Nam2014,,,^ c' i - r ɨ -$,default
 MKorean-180_tohit-1,,MKorean,180_tohit,cʰi-,cʰi-,tɕʰ i,,Nam2014,,,^ cʰ i -$,default
 MKorean-208_tosteal-1,,MKorean,208_tosteal,il-wit-,il-wit-,i l + w i t,,Nam2014,,,^ i l - w i t -$,default
 MKorean-183_tokill-1,,MKorean,183_tokill,cu-gi-,cu-gi-,tɕ u + g i,,Nam2014,,,^ c u - g i -$,default

@@ -1,50 +1,53 @@
-Grapheme	SCA	FREQUENCY	EXAMPLES	IPA
-^		2224	son;wen;o-rɨn-pen;kər-;cil	NULL
-$		2365	son;wen;o-rɨn-pen;kər-;cil	NULL
-a	A	981	k'waŋ;cʰaŋ-;ka-sim;he-a-rin-;tɛ-gaŋ-i	a
-a:	A	14	sa:-ram;sa:-ram;sa:-ram;sa:-ram;sa:-ram	aː
-c	C	260	cil;cə-tɨn-;can-;cip-p'ɛ;ci-boŋ-k'u	tɕ
-j	C	152	ja-ga-gi;jo-ri-;ha-ui-jem;tal-gjal;pɛ:-jam	dʑ
-ɟ	C	73	ka-ɟi;k'o-ɟaŋ;ci-ɟə-bun-;mun-ɟi;mo-ga-ɟi	ɟ
-ch	C	1	kam-cho-	tɕʰ
-cʰ	C	78	cʰaŋ-;nɛ-cʰi-;kop-cʰin-;cʰo-;cʰol-ri	tɕʰ
-e	E	203	wen;o-rɨn-pen;he-a-rin-;se-k'a-dak;ha-ui-jem	e
-ǝ	E	31	t'ǝ-rǝ-cin-;t'ǝ-rǝ-cin-;kǝr-;hǝ-jǝm-;hǝ-jǝm-	ə
-ə	E	484	kər-;tɨŋ-ə-ri;ək-kɛ;cə-tɨn-;hə-un-də-gi	ə
-ɛ	E	334	pɛ;ək-kɛ;tɛ-gaŋ-i;kul-rɛ-k'wa-i;nɛ-cʰi-	ɛ
-ɛ:	E	9	pɛ:-jam;pɛ:-jam;pɛ:-jam;pɛ:-jam;pɛ:-jam	ɛː
-^h	H	141	he-a-rin-;hə-un-də-gi;ha-ui-jem;hɛt-a-i;hɨk	h
-i	I	909	cil;tol-lin-;tɨŋ-ə-ri;ka-sim;he-a-rin-	i
-ɨ	I	404	o-rɨn-pen;tɨŋ-ə-ri;cə-tɨn-;nɨy-p'al;pa-k'ɨ-	ɨ
-i:	I	6	pi:l;pi:l;pi:l;pi:l;pi:l	iː
-ɨ́	I	1	ə-rɨ́m	ɨ́/ɨ
-y	J	41	nɨy-p'al;nɨy;pɔ-dɨy-;yeŋ;yə-gɨy	j
-g	K	253	tɛ-gaŋ-i;ja-ga-gi;ja-ga-gi;hə-un-də-gi;ka-sɨ-na-gi	g
-k	K	514	kər-;ku-dum;ka-sim;ək-kɛ;ək-kɛ	k
-k'	K	116	k'waŋ;kul-rɛ-k'wa-i;se-k'a-dak;pa-k'ɨ-;nun-k'a-ri	k͈
-kʰ	K	26	kʰo;kʰa-;kʰo;kʰi-un-;kʰo	kʰ
-l	L	476	cil;tol-lin-;tol-lin-;kul-rɛ-k'wa-i;nɨy-p'al	l
-m	M	526	ku-dum;ka-sim;məŋ-nɨn-;ha-ui-jem;sa:-ram	m
-n	N	848	son;wen;o-rɨn-pen;o-rɨn-pen;tol-lin-	n
-ŋ	N	245	tɨŋ-ə-ri;k'waŋ;cʰaŋ-;tɛ-gaŋ-i;məŋ-nɨn-	ŋ
-b	P	43	a-baŋ;ci-boŋ-k'u;ci-ɟə-bun-;sə-baŋ;ci-boŋ-k'u	b
-p	P	429	o-rɨn-pen;pɛ;pa-k'ɨ-;nam-pen;cip-p'ɛ	p
-p'	P	77	nɨy-p'al;p'ɔn-;cip-p'ɛ;p'ul-li;p'ul	p͈
-pʰ	P	26	pʰul;pʰul;mul-pʰak;pʰul;mu-rɨm-pʰak	pʰ
-r	R	377	o-rɨn-pen;kər-;tɨŋ-ə-ri;he-a-rin-;kul-rɛ-k'wa-i	ɾ
-s	S	407	son;ka-sim;se-k'a-dak;sa:-ram;sa-na-i	s
-s'	S	52	s'ap-;s'im-nɨn-;nu-ə-s'ɨn-;ap-s'i;s'an-	s͈
-d	T	90	ku-dum;hə-un-də-gi;se-k'a-dak;pɔ-dɨy-;mɔn-dak	d
-t	T	423	tol-lin-;tɨŋ-ə-ri;cə-tɨn-;tɛ-gaŋ-i;kwi-twi-i	t
-c'	T	54	c'o-rɨ-;o-rɨn-c'ok;c'am-men-;nal-kɛ-c'ok-ɟi;mal-c'aŋ	t͈ɕ
-j'	T	2	nəl-j'un-;øn-j'at	d͈ʑ
-t'	T	60	t'ɔ-rin-;kwi-t'ɛ-gi;t'ɛ-rin-;sal-t'a-gu;t'iŋ-gi-	t͈
-th	T	3	thǝ-ri;thǝ-rǝk;ta-tho-	tʰ
-tʰ	T	19	mi-tʰi;tʰə-rək;tʰuŋ-gəp-;tʰə-rək;tʰuŋ-gəp-	tʰ
-o	U	395	son;o-rɨn-pen;tol-lin-;kʰo;jo-ri-	o
-ø	U	22	pən-gø;nø;nə-nø;øn;ø-jak	ø
-ɔ	U	9	p'ɔn-;t'ɔ-rin-;kɔ-u-ri;mɔl-lɨn-;pɔ-dɨy-	ɔ
-w	W	92	wen;k'waŋ;kul-rɛ-k'wa-i;kwi-twi-i;kwi-twi-i	w
-u	Y	564	ku-dum;ku-dum;hə-un-də-gi;kul-rɛ-k'wa-i;nun-k'a-ri	u
--	_	2714	o-rɨn-pen;o-rɨn-pen;kər-;tol-lin-;tol-lin-	+
--h	_ H	38	a-hɨp;nol-ha-da;a-hɨp;s'am-han-;p'an-tɨt-hə-da	+ h
+Grapheme	IPA
+^	NULL
+$	NULL
+a	a
+a:	aː
+c	tɕ
+j	dʑ
+ɟ	ɟ
+ch	tɕʰ
+cʰ	tɕʰ
+e	e
+ǝ	ə
+ə	ə
+ɛ	ɛ
+ɛ:	ɛː
+^h	h
+i	i
+ɨ	ɨ
+i:	iː
+ɨ́	ɨ́/ɨ
+y	j
+g	g
+k	k
+k'	k͈
+kʰ	kʰ
+l	l
+m	m
+n	n
+ŋ	ŋ
+b	b
+p	p
+p'	p͈
+pʰ	pʰ
+r	ɾ
+s	s
+s'	s͈
+d	d
+t	t
+c'	t͈ɕ
+j'	d͈ʑ
+t'	t͈
+th	tʰ
+tʰ	tʰ
+o	o
+ø	ø
+ɔ	ɔ
+w	w
+u	u
+-	+
+-h	+ h
+^-	NULL
+-$	NULL
+--	+

@@ -4,6 +4,9 @@
     "dc:bibliographicCitation": "Lee, Sean (2015). A Sketch of Language History in the Korean Peninsula. PLoS ONE 10(5): e0128448. doi:10.1371/journal.pone.0128448",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": "Lee S (2015) A Sketch of Language History in the Korean Peninsula. PLoS ONE 10(5): e0128448. doi:10.1371/journal.pone.0128448",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Lee-2015-246"
+    ],
     "dc:identifier": "https://doi.org/10.1371/journal.pone.0128448",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
@@ -16,7 +19,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/leekoreanic",
-            "dc:created": "c2065bd"
+            "dc:created": "20abad1"
         },
         {
             "rdf:type": "prov:Entity",
@@ -246,6 +249,14 @@
                     {
                         "datatype": "string",
                         "name": "Concepticon_Gloss"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Korean_Gloss"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Number"
                     }
                 ],
                 "primaryKey": [

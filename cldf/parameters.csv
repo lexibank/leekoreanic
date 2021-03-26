@@ -1,247 +1,247 @@
-ID,Name,Concepticon_ID,Concepticon_Gloss
-1_above,above,1741,ABOVE
-2_all,all,98,ALL
-3_and,and,1577,AND
-4_animal,animal,619,ANIMAL
-5_ash,ash,646,ASH
-6_at,at,1461,AT
-7_back,back,1291,BACK
-8_badevil,"bad, evil",3764,BAD OR EVIL
-9_barkofatree,bark (of a tree),1204,BARK
-10_because,because,1157,BECAUSE
-11_belly,belly,1251,BELLY
-12_below,below,1485,BELOW OR UNDER
-13_big,big,1202,BIG
-14_bird,bird,937,BIRD
-15_black,black,163,BLACK
-16_blood,blood,946,BLOOD
-17_bone,bone,1394,BONE
-18_branch,branch,1531,BRANCH
-19_breast,breast,1402,BREAST
-20_child,child,2099,CHILD
-21_claw,claw,72,CLAW
-22_cloud,cloud,1489,CLOUD
-23_cold,cold,1287,COLD
-24_correcttrue,"correct, true",1725,CORRECT (RIGHT)
-25_day,day,1225,DAY (NOT NIGHT)
-26_dirty,dirty,1230,DIRTY
-27_dog,dog,2009,DOG
-28_dry,dry,1398,DRY
-29_dull,dull,379,BLUNT
-30_dust,dust,2,DUST
-31_ear,ear,1247,EAR
-32_earthsoil,earth/soil,1228,EARTH (SOIL)
-33_egg,egg,744,EGG
-34_eight,Eight,1705,EIGHT
-35_eye,eye,1248,EYE
-36_far,far,1406,FAR
-37_fatgrease,fat/grease,323,FAT (ORGANIC SUBSTANCE)
-38_father,father,1217,FATHER
-39_feather,feather,1201,FEATHER
-40_few,few,1242,FEW
-41_fifty,Fifty,1717,FIFTY
-42_fire,fire,221,FIRE
-43_fish,fish,227,FISH
-44_five,Five,493,FIVE
-45_flower,flower,239,FLOWER
-46_fog,fog,249,FOG
-47_foot,foot,1301,FOOT
-48_four,Four,1500,FOUR
-49_fruit,fruit,1507,FRUIT
-50_full,full,1429,FULL
-51_good,good,1035,GOOD
-52_grass,grass,606,GRASS
-53_green,green,1425,GREEN
-54_hair,hair,1040,HAIR
-55_hand,hand,1277,HAND
-56_heshe,he/she,2642,HE OR SHE
-57_head,head,1256,HEAD
-58_heart,heart,1223,HEART
-59_heavy,heavy,1210,HEAVY
-60_here,here,136,HERE
-61_horn,horn,1393,HORN (ANATOMY)
-62_house,house,1252,HOUSE
-63_how,how?,1239,HOW
-64_husband,husband,1200,HUSBAND
-65_i,I,1209,I
-66_ice,ice,617,ICE
-67_if,if,1459,IF
-68_ininside,"in, inside",1606,INSIDE
-69_intestines,intestines,1991,INTESTINES
-70_knee,knee,1371,KNEE
-71_lake,lake,624,LAKE
-72_leaf,leaf,628,LEAF
-73_left,left,244,LEFT
-74_leg,leg,1297,LEG
-75_lightening,lightening,1654,LIGHTNING
-76_liver,liver,1224,LIVER
-77_long,long,1203,LONG
-78_louse,louse,1392,LOUSE
-79_manmale,man/male,1553,MALE
-80_many,many,1198,MANY
-81_meatflesh,meat/flesh,2615,FLESH OR MEAT
-82_moon,moon,1313,MOON
-83_mosquito,mosquito,1509,MOSQUITO
-84_mother,mother,1216,MOTHER
-85_mountain,mountain,639,MOUNTAIN
-86_mouth,mouth,674,MOUTH
-87_name,name,1405,NAME
-88_narrow,narrow,1267,NARROW
-89_near,near,1942,NEAR
-90_neck,neck,1333,NECK
-91_needle,needle,1382,NEEDLE (FOR SEWING)
-92_new,new,1231,NEW
-93_night,night,1233,NIGHT
-94_nine,Nine,1483,NINE
-95_nonot,"no, not",2279,NO OR NOT
-96_nose,nose,1221,NOSE
-97_old,old,1229,OLD
-98_one,One,1493,ONE
-99_onehundred,One Hundred,1634,HUNDRED
-100_onethousand,One Thousand,1843,THOUSAND
-101_other,other,197,OTHER
-102_painfulsick,"painful, sick",2103,PAINFUL OR SICK
-103_personhumanbeing,person/human being,683,PERSON
-104_rain,rain,658,RAIN (PRECIPITATION)
-105_rat,rat,1490,RAT
-106_red,red,156,RED
-107_right,right,1019,RIGHT
-108_river,river,666,RIVER
-109_road,road,667,ROAD
-110_root,root,670,ROOT
-111_rope,rope,1218,ROPE
-112_rotten,rotten,1728,ROTTEN
-113_round,round,1395,ROUND
-114_salt,salt,1274,SALT
-115_sand,sand,671,SAND
-116_sea,sea,1474,SEA
-117_seed,seed,714,SEED
-118_seven,Seven,1704,SEVEN
-119_sharp,sharp,1396,SHARP
-120_short,short,1645,SHORT
-121_shoulder,shoulder,1482,SHOULDER
-122_shyashamed,"shy, ashamed",487,SHY
-123_six,Six,1703,SIX
-124_skin,skin,763,SKIN
-125_sky,sky,1732,SKY
-126_small,small,1246,SMALL
-127_smell,smell,2124,SMELL
-128_smoke,smoke,778,SMOKE (EXHAUST)
-129_smooth,smooth,1234,SMOOTH
-130_snake,snake,730,SNAKE
-131_snow,snow,784,SNOW
-132_some,some,1241,SOME
-133_spider,spider,843,SPIDER
-134_star,star,1430,STAR
-135_stickwood,stick/wood,1295,STICK
-136_stone,stone,857,STONE
-137_straight,straight,1404,STRAIGHT
-138_sun,sun,1343,SUN
-139_tail,tail,1220,TAIL
-140_ten,Ten,1515,TEN
-141_that,that,78,THAT
-142_thatchroof,thatch/roof,2100,THATCH OR ROOF
-143_there,there,1937,THERE
-144_they,they,817,THEY
-145_thick,thick,1244,THICK
-146_thin,thin,2308,THIN
-147_this,this,1214,THIS
-148_thou,thou,1215,THOU
-149_three,Three,492,THREE
-150_thunder,thunder,1150,THUNDER
-151_tobite,to bite,1403,BITE
-152_toblow,to blow,175,BLOW (OF WIND)
-153_tobreathe,to breathe,1407,BREATHE
-154_toburn,to burn,2102,BURN
-155_tobuy,to buy,1869,BUY
-156_tochew,to chew,321,CHEW
-157_tochoose,to choose,1750,CHOOSE
-158_toclimb,to climb,1102,CLIMB
-159_tocome,to come,1446,COME
-160_tocook,to cook,1100,COOK (SOMETHING)
-161_tocount,to count,1420,COUNT
-162_tocry,to cry,1839,CRY
-163_tocuthack,"to cut, hack",1432,CUT
-164_todiebedead,"to die, be dead",2101,BE DEAD OR DIE
-165_todig,to dig,1418,DIG
-166_todream,to dream,1920,DREAM (SOMETHING)
-167_todrink,to drink,1401,DRINK
-168_toeat,to eat,1336,EAT
-169_tofall,to fall,1280,FALL
-170_tofear,to fear,1419,FEAR (BE AFRAID)
-171_tofight,to fight,1423,FIGHT
-172_tofloat,to float,1574,FLOAT
-173_toflow,to flow,2003,FLOW
-174_tofly,to fly,1441,FLY (MOVE THROUGH AIR)
-175_tofreeze,to freeze,1431,FREEZE
-176_togive,to give,1447,GIVE
-177_togrow,to grow,479,GROW
-178_tohear,to hear,1408,HEAR
-179_tohide,to hide,2486,HIDE
-180_tohit,to hit,1433,HIT
-181_tohold,to hold,1448,HOLD
-182_tohunt,to hunt,1435,HUNT
-183_tokill,to kill,1417,KILL
-184_toknowbeknowledgeable,"to know, be knowledgeable",3626,KNOW
-185_tolaugh,to laugh,1355,LAUGH
-186_toliedown,to lie down,215,LIE DOWN
-187_tolivebealive,"to live, be alive",1422,BE ALIVE
-188_toopenuncover,"to open, uncover",1156,OPEN
-189_toplant,to plant,1486,PLANT (SOMETHING)
-190_toplay,to play,1413,PLAY
-191_topoundbeat,"to pound, beat",354,POUND
-192_topull,to pull,1455,PULL
-193_topush,to push,1452,PUSH
-194_torub,to rub,1449,RUB
-195_tosay,to say,1458,SAY
-196_toscratch,to scratch,1436,SCRATCH
-197_tosee,to see,1409,SEE
-198_tosew,to sew,1457,SEW
-199_toshoot,to shoot,1172,SHOOT
-200_tosing,to sing,1261,SING
-201_tosit,to sit,1416,SIT
-202_tosleep,to sleep,1585,SLEEP
-203_tospit,to spit,1440,SPIT
-204_tosplit,to split,1437,SPLIT
-205_tosqueeze,to squeeze,1414,SQUEEZE
-206_tostabpierce,"to stab, pierce",1434,STAB
-207_tostand,to stand,1442,STAND
-208_tosteal,to steal,713,STEAL
-209_tosuck,to suck,1421,SUCK
-210_toswell,to swell,1573,SWELL
-211_toswim,to swim,1439,SWIM
-212_tothink,to think,2271,THINK
-213_tothrow,to throw,1456,THROW
-214_totieupfasten,"to tie up, fasten",1094,FASTEN
-215_toturn,to turn,1588,TURN
-216_tovomit,to vomit,1278,VOMIT
-217_towash,to wash,1453,WASH
-218_towipe,to wipe,1454,WIPE
-219_towork,to work,1086,WORK (ACTIVITY)
-220_toyawn,to yawn,1028,YAWN
-221_tongue,tongue,1205,TONGUE
-222_tooth,tooth,1380,TOOTH
-223_tree,tree,906,TREE
-224_twenty,Twenty,1710,TWENTY
-225_two,Two,1498,TWO
-226_walk,walk,1443,WALK
-227_warm,warm,1232,WARM
-228_water,water,948,WATER
-229_we,we,1212,WE
-230_wet,wet,1726,WET
-231_what,what?,1236,WHAT
-232_when,when?,1238,WHEN
-233_where,where?,1237,WHERE
-234_white,white,1335,WHITE
-235_who,who?,1235,WHO
-236_wide,wide,1243,WIDE
-237_wife,wife,1199,WIFE
-238_wind,wind,960,WIND
-239_wing,wing,1257,WING
-240_with,with,1340,WITH
-241_womanfemale,woman/female,2105,FEMALE PERSON
-242_woodsforest,woods/forest,420,FOREST
-243_wormearthworm,worm (earthworm),2350,EARTHWORM
-244_ye,ye,1213,YOU
-245_year,year,1226,YEAR
-246_yellow,yellow,1424,YELLOW
+ID,Name,Concepticon_ID,Concepticon_Gloss,Korean_Gloss,Number
+1_above,above,1741,ABOVE,위,
+2_all,all,98,ALL,모두,
+3_and,and,1577,AND,와/과,
+4_animal,animal,619,ANIMAL,짐승,
+5_ash,ash,646,ASH,재,
+6_at,at,1461,AT,에,
+7_back,back,1291,BACK,등,
+8_badevil,"bad, evil",3764,BAD OR EVIL,나쁘다,
+9_barkofatree,bark (of a tree),1204,BARK,나무껍질,
+10_because,because,1157,BECAUSE,때문에,
+11_belly,belly,1251,BELLY,배,
+12_below,below,1485,BELOW OR UNDER,아래,
+13_big,big,1202,BIG,크다,
+14_bird,bird,937,BIRD,새,
+15_black,black,163,BLACK,검정/검다/까맣다,
+16_blood,blood,946,BLOOD,피,
+17_bone,bone,1394,BONE,뼈,
+18_branch,branch,1531,BRANCH,가지,
+19_breast,breast,1402,BREAST,가슴,
+20_child,child,2099,CHILD,어린아이,
+21_claw,claw,72,CLAW,손톱,
+22_cloud,cloud,1489,CLOUD,구름,
+23_cold,cold,1287,COLD,추워/춥다,
+24_correcttrue,"correct, true",1725,CORRECT (RIGHT),바르다/맞다,
+25_day,day,1225,DAY (NOT NIGHT),낮,
+26_dirty,dirty,1230,DIRTY,더럽다,
+27_dog,dog,2009,DOG,개,
+28_dry,dry,1398,DRY,마르다,
+29_dull,dull,379,BLUNT,무디다/무디다,
+30_dust,dust,2,DUST,티끌,
+31_ear,ear,1247,EAR,귀,
+32_earthsoil,earth/soil,1228,EARTH (SOIL),흙,
+33_egg,egg,744,EGG,달걀,
+34_eight,Eight,1705,EIGHT,여덟,
+35_eye,eye,1248,EYE,눈,
+36_far,far,1406,FAR,멀다,
+37_fatgrease,fat/grease,323,FAT (ORGANIC SUBSTANCE),기름,
+38_father,father,1217,FATHER,아버지/아빠,
+39_feather,feather,1201,FEATHER,깃,
+40_few,few,1242,FEW,조금,
+41_fifty,Fifty,1717,FIFTY,쉰,
+42_fire,fire,221,FIRE,불,
+43_fish,fish,227,FISH,고기,
+44_five,Five,493,FIVE,다섯,
+45_flower,flower,239,FLOWER,꽃,
+46_fog,fog,249,FOG,안개,
+47_foot,foot,1301,FOOT,발,
+48_four,Four,1500,FOUR,넷/네,
+49_fruit,fruit,1507,FRUIT,열매,
+50_full,full,1429,FULL,가득하다,
+51_good,good,1035,GOOD,좋다,
+52_grass,grass,606,GRASS,풀/잔디,
+53_green,green,1425,GREEN,초록/푸르다,
+54_hair,hair,1040,HAIR,털,
+55_hand,hand,1277,HAND,손,
+56_heshe,he/she,2642,HE OR SHE,그,
+57_head,head,1256,HEAD,머리,
+58_heart,heart,1223,HEART,염통,
+59_heavy,heavy,1210,HEAVY,무겁다,
+60_here,here,136,HERE,여기,
+61_horn,horn,1393,HORN (ANATOMY),뿔,
+62_house,house,1252,HOUSE,집,
+63_how,how?,1239,HOW,어떻게,
+64_husband,husband,1200,HUSBAND,남편/사내,
+65_i,I,1209,I,나,
+66_ice,ice,617,ICE,얼음,
+67_if,if,1459,IF,만약,
+68_ininside,"in, inside",1606,INSIDE,에/안에,
+69_intestines,intestines,1991,INTESTINES,장/애/창자,
+70_knee,knee,1371,KNEE,무릎,
+71_lake,lake,624,LAKE,호수,
+72_leaf,leaf,628,LEAF,잎,
+73_left,left,244,LEFT,왼쪽,
+74_leg,leg,1297,LEG,다리,
+75_lightening,lightening,1654,LIGHTNING,번개,
+76_liver,liver,1224,LIVER,간,
+77_long,long,1203,LONG,길다,
+78_louse,louse,1392,LOUSE,이,
+79_manmale,man/male,1553,MALE,사내,
+80_many,many,1198,MANY,많이,
+81_meatflesh,meat/flesh,2615,FLESH OR MEAT,살/고기,
+82_moon,moon,1313,MOON,달,
+83_mosquito,mosquito,1509,MOSQUITO,모기,
+84_mother,mother,1216,MOTHER,어머니/엄마,
+85_mountain,mountain,639,MOUNTAIN,뫼/산,
+86_mouth,mouth,674,MOUTH,입,
+87_name,name,1405,NAME,이름,
+88_narrow,narrow,1267,NARROW,좁다,
+89_near,near,1942,NEAR,가깝다,
+90_neck,neck,1333,NECK,목,
+91_needle,needle,1382,NEEDLE (FOR SEWING),바늘,
+92_new,new,1231,NEW,새/새롭다,
+93_night,night,1233,NIGHT,밤,
+94_nine,Nine,1483,NINE,아홉,
+95_nonot,"no, not",2279,NO OR NOT,아니다/안/아니,
+96_nose,nose,1221,NOSE,코,
+97_old,old,1229,OLD,옛/오래되다,
+98_one,One,1493,ONE,하나/한,
+99_onehundred,One Hundred,1634,HUNDRED,온,
+100_onethousand,One Thousand,1843,THOUSAND,즈믄,
+101_other,other,197,OTHER,다른,
+102_painfulsick,"painful, sick",2103,PAINFUL OR SICK,앓다,
+103_personhumanbeing,person/human being,683,PERSON,사람,
+104_rain,rain,658,RAIN (PRECIPITATION),비,
+105_rat,rat,1490,RAT,쥐,
+106_red,red,156,RED,빨갛다,
+107_right,right,1019,RIGHT,오른쪽,
+108_river,river,666,RIVER,강,
+109_road,road,667,ROAD,길,
+110_root,root,670,ROOT,뿌리,
+111_rope,rope,1218,ROPE,새끼줄/노끈,
+112_rotten,rotten,1728,ROTTEN,썩다,
+113_round,round,1395,ROUND,둥글다,
+114_salt,salt,1274,SALT,소금,
+115_sand,sand,671,SAND,모래,
+116_sea,sea,1474,SEA,바다,
+117_seed,seed,714,SEED,씨앗,
+118_seven,Seven,1704,SEVEN,일곱,
+119_sharp,sharp,1396,SHARP,날카롭다,
+120_short,short,1645,SHORT,짧다,
+121_shoulder,shoulder,1482,SHOULDER,어깨,
+122_shyashamed,"shy, ashamed",487,SHY,부끄럽다,
+123_six,Six,1703,SIX,여섯,
+124_skin,skin,763,SKIN,살갗,
+125_sky,sky,1732,SKY,하늘,
+126_small,small,1246,SMALL,작다,
+127_smell,smell,2124,SMELL,냄새,
+128_smoke,smoke,778,SMOKE (EXHAUST),연기,
+129_smooth,smooth,1234,SMOOTH,부드럽다,
+130_snake,snake,730,SNAKE,뱀,
+131_snow,snow,784,SNOW,눈,
+132_some,some,1241,SOME,몇몇/약간,
+133_spider,spider,843,SPIDER,거미,
+134_star,star,1430,STAR,별,
+135_stickwood,stick/wood,1295,STICK,막대기,
+136_stone,stone,857,STONE,돌,
+137_straight,straight,1404,STRAIGHT,바르다,
+138_sun,sun,1343,SUN,해,
+139_tail,tail,1220,TAIL,꼬리,
+140_ten,Ten,1515,TEN,열,
+141_that,that,78,THAT,그/저,
+142_thatchroof,thatch/roof,2100,THATCH OR ROOF,지붕,
+143_there,there,1937,THERE,저기,
+144_they,they,817,THEY,그들,
+145_thick,thick,1244,THICK,굵다,
+146_thin,thin,2308,THIN,얇다,
+147_this,this,1214,THIS,이,
+148_thou,thou,1215,THOU,너,
+149_three,Three,492,THREE,셋/세,
+150_thunder,thunder,1150,THUNDER,천둥,
+151_tobite,to bite,1403,BITE,물다,
+152_toblow,to blow,175,BLOW (OF WIND),불다,
+153_tobreathe,to breathe,1407,BREATHE,숨쉬다,
+154_toburn,to burn,2102,BURN,타다/태우다,
+155_tobuy,to buy,1869,BUY,사다,
+156_tochew,to chew,321,CHEW,씹다,
+157_tochoose,to choose,1750,CHOOSE,고르다,
+158_toclimb,to climb,1102,CLIMB,오르다,
+159_tocome,to come,1446,COME,오다,
+160_tocook,to cook,1100,COOK (SOMETHING),요리하다,
+161_tocount,to count,1420,COUNT,세다,
+162_tocry,to cry,1839,CRY,울다,
+163_tocuthack,"to cut, hack",1432,CUT,베다/자르다,
+164_todiebedead,"to die, be dead",2101,BE DEAD OR DIE,죽다,
+165_todig,to dig,1418,DIG,파다,
+166_todream,to dream,1920,DREAM (SOMETHING),꿈꾸다,
+167_todrink,to drink,1401,DRINK,마시다,
+168_toeat,to eat,1336,EAT,먹다,
+169_tofall,to fall,1280,FALL,떨어지다,
+170_tofear,to fear,1419,FEAR (BE AFRAID),두려워하다,
+171_tofight,to fight,1423,FIGHT,싸우다/다투다,
+172_tofloat,to float,1574,FLOAT,뜨다,
+173_toflow,to flow,2003,FLOW,흐르다,
+174_tofly,to fly,1441,FLY (MOVE THROUGH AIR),날다,
+175_tofreeze,to freeze,1431,FREEZE,얼다,
+176_togive,to give,1447,GIVE,주다,
+177_togrow,to grow,479,GROW,기르다,
+178_tohear,to hear,1408,HEAR,듣다,
+179_tohide,to hide,2486,HIDE,숨기다,
+180_tohit,to hit,1433,HIT,치다,
+181_tohold,to hold,1448,HOLD,잡다,
+182_tohunt,to hunt,1435,HUNT,사냥하다,
+183_tokill,to kill,1417,KILL,죽이다,
+184_toknowbeknowledgeable,"to know, be knowledgeable",3626,KNOW,알다,
+185_tolaugh,to laugh,1355,LAUGH,웃다,
+186_toliedown,to lie down,215,LIE DOWN,눕다,
+187_tolivebealive,"to live, be alive",1422,BE ALIVE,살다,
+188_toopenuncover,"to open, uncover",1156,OPEN,열다,
+189_toplant,to plant,1486,PLANT (SOMETHING),심다,
+190_toplay,to play,1413,PLAY,놀다,
+191_topoundbeat,"to pound, beat",354,POUND,때리다,
+192_topull,to pull,1455,PULL,당기다,
+193_topush,to push,1452,PUSH,밀다,
+194_torub,to rub,1449,RUB,문지르다/비비다,
+195_tosay,to say,1458,SAY,말하다,
+196_toscratch,to scratch,1436,SCRATCH,긁다,
+197_tosee,to see,1409,SEE,보다,
+198_tosew,to sew,1457,SEW,꿰매다,
+199_toshoot,to shoot,1172,SHOOT,쏘다,
+200_tosing,to sing,1261,SING,노래하다,
+201_tosit,to sit,1416,SIT,앉다,
+202_tosleep,to sleep,1585,SLEEP,자다,
+203_tospit,to spit,1440,SPIT,뱉다,
+204_tosplit,to split,1437,SPLIT,가르다/찢다,
+205_tosqueeze,to squeeze,1414,SQUEEZE,짜다,
+206_tostabpierce,"to stab, pierce",1434,STAB,찌르다,
+207_tostand,to stand,1442,STAND,서다,
+208_tosteal,to steal,713,STEAL,훔치다,
+209_tosuck,to suck,1421,SUCK,빨다,
+210_toswell,to swell,1573,SWELL,붓다,
+211_toswim,to swim,1439,SWIM,헤엄치다,
+212_tothink,to think,2271,THINK,헤아리다,
+213_tothrow,to throw,1456,THROW,던지다,
+214_totieupfasten,"to tie up, fasten",1094,FASTEN,얽다,
+215_toturn,to turn,1588,TURN,돌다,
+216_tovomit,to vomit,1278,VOMIT,게우다/토하다,
+217_towash,to wash,1453,WASH,씻다,
+218_towipe,to wipe,1454,WIPE,훔치다,
+219_towork,to work,1086,WORK (ACTIVITY),일하다,
+220_toyawn,to yawn,1028,YAWN,하품하다,
+221_tongue,tongue,1205,TONGUE,혀,
+222_tooth,tooth,1380,TOOTH,이/이빨,
+223_tree,tree,906,TREE,나무,
+224_twenty,Twenty,1710,TWENTY,스물,
+225_two,Two,1498,TWO,둘/두,
+226_walk,walk,1443,WALK,걸음,
+227_warm,warm,1232,WARM,따뜻하다,
+228_water,water,948,WATER,물,
+229_we,we,1212,WE,우리,
+230_wet,wet,1726,WET,젖다,
+231_what,what?,1236,WHAT,무엇,
+232_when,when?,1238,WHEN,언제,
+233_where,where?,1237,WHERE,어디,
+234_white,white,1335,WHITE,하양/희다/하얗다,
+235_who,who?,1235,WHO,누구,
+236_wide,wide,1243,WIDE,넓다,
+237_wife,wife,1199,WIFE,아내/마누라,
+238_wind,wind,960,WIND,바람,
+239_wing,wing,1257,WING,날개,
+240_with,with,1340,WITH,같이/더불어,
+241_womanfemale,woman/female,2105,FEMALE PERSON,여자,
+242_woodsforest,woods/forest,420,FOREST,숲/수풀,
+243_wormearthworm,worm (earthworm),2350,EARTHWORM,지렁이/벌레,
+244_ye,ye,1213,YOU,너희들,
+245_year,year,1226,YEAR,해,
+246_yellow,yellow,1424,YELLOW,노랗다,

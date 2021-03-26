@@ -2,7 +2,7 @@ from pathlib import Path
 from collections import defaultdict
 import pylexibank
 from clldutils.misc import slug
-
+import attr
 from openpyxl import load_workbook
 
 
@@ -36,6 +36,12 @@ FIXED_COGNATES = {
     # old
     "jet/nət": "1 & 1",
 }
+
+@attr.s
+class CustomConcept(pylexibank.Concept):
+    Korean_Gloss = attr.ib(default=None)
+    Number = attr.ib(default=None)
+
 
 
 def read_data(filename):
@@ -100,6 +106,7 @@ def read_data(filename):
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "leekoreanic"
+    concept_class = CustomConcept
 
     # define the way in which forms should be handled
     form_spec = pylexibank.FormSpec(
@@ -118,12 +125,18 @@ class Dataset(pylexibank.Dataset):
         """
         args.writer.add_sources()
 
-        languages = args.writer.add_languages(lookup_factory=lambda l: l["Name"])
+        
+        concepts = {}
+        for concept in self.conceptlists[0].concepts.values():
+            idx = concept.number+'_'+slug(concept.english)
+            args.writer.add_concept(ID=idx, Name=concept.english,
+                    Concepticon_ID=concept.concepticon_id, 
+                    Concepticon_Gloss=concept.concepticon_gloss,
+                    Korean_Gloss=concept.attributes["korean"]
+                    )
+            concepts[concept.english] = idx
 
-        concepts = args.writer.add_concepts(
-            id_factory=lambda c: c.id.split("-")[-1] + "_" + slug(c.english),
-            lookup_factory="english",
-        )
+        languages = args.writer.add_languages(lookup_factory=lambda l: l["Name"])
 
         for lang, word, gloss, cognate, src in read_data(self.raw_dir / DATAFILE):
             lex = args.writer.add_forms_from_value(

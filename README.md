@@ -11,6 +11,9 @@ This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://doi.org/10.1371/journal.pone.0128448
 
+
+Conceptlists in Concepticon:
+- [Lee-2015-246](https://concepticon.clld.org/contributions/Lee-2015-246)
 ## Statistics
 
 

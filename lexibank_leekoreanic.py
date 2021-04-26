@@ -37,11 +37,11 @@ FIXED_COGNATES = {
     "jet/nət": "1 & 1",
 }
 
+
 @attr.s
 class CustomConcept(pylexibank.Concept):
     Korean_Gloss = attr.ib(default=None)
     Number = attr.ib(default=None)
-
 
 
 def read_data(filename):
@@ -125,15 +125,16 @@ class Dataset(pylexibank.Dataset):
         """
         args.writer.add_sources()
 
-        
         concepts = {}
         for concept in self.conceptlists[0].concepts.values():
-            idx = concept.number+'_'+slug(concept.english)
-            args.writer.add_concept(ID=idx, Name=concept.english,
-                    Concepticon_ID=concept.concepticon_id, 
-                    Concepticon_Gloss=concept.concepticon_gloss,
-                    Korean_Gloss=concept.attributes["korean"]
-                    )
+            idx = concept.number + "_" + slug(concept.english)
+            args.writer.add_concept(
+                ID=idx,
+                Name=concept.english,
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss,
+                Korean_Gloss=concept.attributes["korean"],
+            )
             concepts[concept.english] = idx
 
         languages = args.writer.add_languages(lookup_factory=lambda l: l["Name"])

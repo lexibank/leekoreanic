@@ -4,9 +4,6 @@ Cite the source dataset as
 
 > Lee, Sean (2015). A Sketch of Language History in the Korean Peninsula. PLoS ONE 10(5): e0128448. doi:10.1371/journal.pone.0128448
 
-
-Lee S (2015) A Sketch of Language History in the Korean Peninsula. PLoS ONE 10(5): e0128448. doi:10.1371/journal.pone.0128448
-
 This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://doi.org/10.1371/journal.pone.0128448
@@ -17,8 +14,8 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/leekoreanic.svg?branch=master)](https://travis-ci.org/lexibank/leekoreanic)
-![Glottolog: 82%](https://img.shields.io/badge/Glottolog-82%25-yellowgreen.svg "Glottolog: 82%")
+[![CLDF validation](https://github.com/lexibank/leekoreanic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/leekoreanic/actions?query=workflow%3ACLDF-validation)
+![Glottolog: 92%](https://img.shields.io/badge/Glottolog-92%25-green.svg "Glottolog: 92%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")

@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/leekoreanic",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0",
+            "dc:created": "v1.0-1-g56003ce",
             "dc:title": "Repository"
         },
         {

@@ -161,7 +161,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Korean_Gloss,Number
 160_tocook,to cook,1100,COOK (SOMETHING),요리하다,
 161_tocount,to count,1420,COUNT,세다,
 162_tocry,to cry,1839,CRY,울다,
-163_tocuthack,"to cut, hack",1432,CUT,베다/자르다,
+163_tocuthack,"to cut, hack",3889,CUT OR HACK,베다/자르다,
 164_todiebedead,"to die, be dead",2101,BE DEAD OR DIE,죽다,
 165_todig,to dig,1418,DIG,파다,
 166_todream,to dream,1920,DREAM (SOMETHING),꿈꾸다,

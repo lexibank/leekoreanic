@@ -9,8 +9,11 @@ def test_valid(cldf_dataset, cldf_logger):
 def test_forms(cldf_dataset, cldf_logger):
     assert len(list(cldf_dataset['FormTable'])) == 2365
     assert len([
-        f for f in cldf_dataset['FormTable'] if f['Value'] == 'naŋ-kʰi/na-mu'
-    ]) == 2
+        f for f in cldf_dataset['FormTable'] if f['Value'] == 'naŋ-kʰi'
+    ]) == 1
+    assert len([
+        f for f in cldf_dataset['FormTable'] if f['Value'] == 'na-mu'
+    ]) == 1
 
 
 def test_languages(cldf_dataset, cldf_logger):

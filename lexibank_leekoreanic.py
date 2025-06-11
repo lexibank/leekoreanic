@@ -99,8 +99,8 @@ def read_data(filename):
                     src = "Nanmal2010"
                 else:
                     src = "Ogura1944"
-
-                yield (lang, word, gloss.value.strip(), cognate.value, src)
+                
+                yield (lang, word, gloss.value.strip(), str(cognate.value), src)
 
 
 class Dataset(pylexibank.Dataset):
@@ -138,31 +138,25 @@ class Dataset(pylexibank.Dataset):
             concepts[concept.english] = idx
 
         languages = args.writer.add_languages(lookup_factory=lambda l: l["Name"])
-
+        
         for lang, word, gloss, cognate, src in read_data(self.raw_dir / DATAFILE):
-            lex = args.writer.add_forms_from_value(
-                Language_ID=languages[lang], Parameter_ID=concepts[word], Value=gloss, Source=[src]
-            )
-
             # sort out cognates
             cognate = FIXED_COGNATES.get(gloss, cognate)
-            try:
-                cognate = [c.strip() for c in cognate.split("&")]
-            except AttributeError:
-                cognate = [cognate]
-
-            # handle the cases where a lexeme is given multiple cognates
-            if len(lex) < len(cognate):
-                cognate = [";".join(cognate)]
-            else:
-                cognate = [str(c) for c in cognate]
-
-            for l, cog in zip(lex, cognate):
-                if cog == "#":
-                    continue
-                for c in cog.split(";"):  # expand multiple cognates
-                    args.writer.add_cognate(
-                        lexeme=l,
-                        Cognateset_ID="%s-%d" % (concepts[word], int(c)),
-                        Source=["Lee2015"],
+            
+            # cognate is "1", or rarely "1 & 2" or "1 & 3".
+            print(lang, languages[lang], word, concepts[word], gloss, cognate)
+            gloss = [_.strip() for _ in gloss.split("/")]
+            cognate = [_.strip() for _ in cognate.split("&")]
+            for gl, cog in zip(gloss, cognate):
+                cog_id = None if cog == '#' else f"{concepts[word]}-{int(cog)}"
+                if len(gl):
+                    lex = args.writer.add_forms_from_value(
+                        Language_ID=languages[lang],
+                        Parameter_ID=concepts[word],
+                        Value=gl,
+                        Source=[src],
+                        Cognacy=cog_id
                     )
+                    assert len(lex) == 1
+                    if cog_id:
+                        args.writer.add_cognate(lexeme=lex[0], Cognateset_ID=cog_id, Source=["Lee2015"])

@@ -17,13 +17,13 @@
         {
             "rdf:about": "https://github.com/lexibank/leekoreanic",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-1-g56003ce",
+            "dc:created": "v1.1",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.0",
+            "dc:created": "v5.1",
             "dc:title": "Glottolog"
         },
         {
@@ -35,7 +35,7 @@
         {
             "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.3.0",
+            "dc:created": "v2.3.0-4-g824176a",
             "dc:title": "CLTS"
         }
     ],
@@ -46,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.6"
+            "dc:description": "3.13.1"
         },
         {
             "dc:title": "python-packages",
@@ -268,7 +268,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 2360,
+            "dc:extent": 2355,
             "tableSchema": {
                 "columns": [
                     {

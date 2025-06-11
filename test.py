@@ -10,10 +10,10 @@ def test_forms(cldf_dataset, cldf_logger):
     assert len(list(cldf_dataset['FormTable'])) == 2365
     assert len([
         f for f in cldf_dataset['FormTable'] if f['Value'] == 'naŋ-kʰi'
-    ]) == 1
+    ]) == 2
     assert len([
         f for f in cldf_dataset['FormTable'] if f['Value'] == 'na-mu'
-    ]) == 1
+    ]) == 11
 
 
 def test_languages(cldf_dataset, cldf_logger):
